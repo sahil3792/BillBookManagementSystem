@@ -8,6 +8,7 @@ namespace WebApi.Models
         public int InvoiceditemId { get; set; }
 
         public int SalesInvoiceId { get; set; }
+
         public int ItemId { get; set; }
 
 

@@ -8,9 +8,12 @@ namespace WebApi.Models
         public int SalesInvoiceId { get; set; }
         public int PartyId { get; set; }
         public int InvoicedItemId { get; set; }
-        public DateOnly InvoiceDate { get; set; }
-        public DateOnly DueDate { get; set; }
+        public int InvoiceId { get; set; }
+        public string InvoiceDate { get; set; }
+        public string DueDate { get; set; }
+        public decimal Amount {  get; set; }
         public int Quantity { get; set; }
+
 
 
 

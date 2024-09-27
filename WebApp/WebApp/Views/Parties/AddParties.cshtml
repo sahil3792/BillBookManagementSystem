@@ -1,0 +1,95 @@
+﻿@model Parties
+
+@{
+    ViewData["Title"] = "Add Parties";
+}
+<form method="post">
+    <div class="container-fluid">
+        <div>
+            <h5>General Details</h5>
+            <hr />
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <b>Party Name</b>
+                <input type="text" asp-for="partyName" placeholder="Enter PartyName" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <b>Mobile Number</b>
+                <input type="text" asp-for="partyPhoneNo" placeholder="Enter Mobile number" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <b>Email </b>
+                <input type="text" asp-for="partyEmail" placeholder="Enter Email" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <b>Opening Balance</b>
+                <div class="d-flex">
+                    <input type="text" asp-for="openingBalance" placeholder="&#8377" class="form-control me-2" />
+                    <select asp-for="topayTocollect" class="form-select">
+                        <option>To Pay</option>
+                        <option>To Collect</option>
+                    </select>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-md-3">
+                <b>GSTIN</b>
+                <input type="text" asp-for="gstinno" placeholder="ex: 29XXXXX9438X1XX" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <b>Pan Number</b>
+                <input type="text" asp-for="panCardNo" placeholder="Enter Party Pan Number" class="form-control" />
+            </div>
+        </div>
+        <hr />
+
+        <div class="row mt-3">
+            <div class="col-md-3">
+                <b>Party Type</b>
+                @* <input type="text" asp-for="partyType" placeholder="Enter Party Type" class="form-control" /> *@
+                <input list="partyOptions" id="partyType" class="form-control" asp-for="partyType">
+                <datalist id="partyOptions">
+                    <option value="Customer"></option>
+                    <option value="Supplier"></option>
+                </datalist>
+            </div>
+            <div class="col-md-3">
+                <b>Party Category</b>
+                <input type="text" asp-for="partyCategory" placeholder="Enter Category" class="form-control" />
+            </div>
+        </div>
+        <hr />
+        <h5>Address</h5>
+        <div class="row mt-3">
+            <div class="col-md-6">
+                <b>Billing Address</b>
+                <textarea asp-for="partyBillingAddress" placeholder="Enter Billing Address" class="form-control" rows="2"></textarea>
+            </div>
+            <div class="col-md-6">
+                <b>Shipping Address</b>
+                <textarea asp-for="partyShippingAddress" placeholder="Enter shipping Address" class="form-control"></textarea>
+            </div>
+        </div>
+        <hr />
+        <div class="row mt-3">
+            <div class="col-md-3">
+                <b>Credit Period</b>
+                <input type="text" asp-for="partyCreditPeriod" placeholder="Enter Credit Period" class="form-control" />
+            </div>
+            <div class="col-md-3">
+                <b>Credit Limit</b>
+                <input type="text" asp-for="partyCreditLimit" placeholder="Enter Credit Limit" class="form-control" />
+            </div>
+        </div>
+        <br />
+        <div>
+            <input type="submit" value="Save" class="btn btn-secondary" />
+        </div>
+    </div>
+</form>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/doc.js"></script>

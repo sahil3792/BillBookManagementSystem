@@ -1,0 +1,62 @@
+﻿@model List<Parties>
+
+<div class="container-fluid">
+    <h5>Parties</h5>
+    <div class="row">
+        <div class="col-md-4">
+            <b>All Parties</b>
+            <input type="text" id="allparties" readonly />
+        </div>
+        <div class="col-md-4">
+            <b>To Collect</b>
+            <input type="text" id="totalToCollect" readonly />
+        </div>
+        <div class="col-md-4">
+            <b>To Pay</b>
+            <input type="text" id="totaltopay" readonly />
+        </div>
+    </div>
+</div>
+<br />
+<hr />
+
+<div class="row mt-3">
+    <div class="col-md-3">
+        <input type="text" placeholder="Search here..." style="width:50%" id="search"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" onclick="searchparties()" value="Search" class="btn btn-dark" />
+    </div>
+    <div class="col-md-3">
+        <a asp-controller="Parties" asp-action="AddParties"><input type="submit" value="Create Party" class="btn btn-primary" /></a>
+    </div>
+</div>
+<hr />
+<div class="row mt-5">
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Party Name</th>
+                <th scope="col">Category</th>
+                <th scope="col">Mobile Number</th>
+                <th scope="col">Party type</th>
+                <th scope="col">Balance</th>
+            </tr>
+        </thead>
+        <tbody id="tabledata">
+            @foreach (var d in Model)
+            {
+                <tr>
+                    <td>@d.partyName</td>
+                    <td>@d.partyCategory</td>
+                    <td>@d.partyPhoneNo</td>
+                    <td>@d.partyType</td>
+                    <td>@d.openingBalance</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/doc.js"></script>

@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapp\\webapp\\views\\parties\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\parties\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapp\\webapp\\controllers\\partiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\partiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapp\\webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapp\\webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,110 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Parties\\GetAllParties.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Parties\\GetAllParties.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Parties\\GetAllParties.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Parties\\GetAllParties.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T11:55:21.084Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PartiesController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PartiesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PartiesController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PartiesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:51:57.819Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAMkBAAAAAAAAAAAwwNcBAAAaAAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAABABAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-26T08:41:16.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-26T08:41:10.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T08:40:58.788Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 912,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

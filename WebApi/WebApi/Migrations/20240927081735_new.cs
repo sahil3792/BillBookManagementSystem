@@ -5,7 +5,7 @@
 namespace WebApi.Migrations
 {
     /// <inheritdoc />
-    public partial class receipts : Migration
+    public partial class @new : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -126,8 +126,10 @@ namespace WebApi.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     PartyId = table.Column<int>(type: "int", nullable: false),
                     InvoicedItemId = table.Column<int>(type: "int", nullable: false),
+                    InvoiceId = table.Column<int>(type: "int", nullable: false),
                     InvoiceDate = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     DueDate = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Amount = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Quantity = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

@@ -39,6 +39,8 @@
     <!-- Style.css -->
     <link rel="stylesheet" type="text/css" href="~/assets/css/style.css">
 </head>
+<body>
+
 <div class="theme-loader">
     <div class="loader-track">
         <div class="preloader-wrapper">
@@ -92,7 +94,7 @@
     </div>
 </div>
 <!-- Pre-loader end -->
-<div id="pcoded" class="pcoded">
+<div id="pcoded" class="pcoded d-flex">
     <div class="pcoded-overlay-box"></div>
     <div class="pcoded-container navbar-wrapper">
         <nav class="navbar header-navbar pcoded-header">
@@ -481,12 +483,19 @@
                             </div>
                         </div>
                     </div>
+                        <div>
+
+                            @RenderBody()
+                        </div>
                     <!-- Page-header end -->
                    
                 </div>
             </div>
         </div>
     </div>
+</div>
+<div class="container overflow-auto">
+   
 </div>
 <!-- Warning Section Starts -->
 <!-- Older IE warning message -->
@@ -531,10 +540,7 @@
     <p>Sorry for the inconvenience!</p>
 </div>
 <![endif]-->
-<body>
-    <div>
-        @RenderBody()
-    </div>
+    
     <!-- Required Jquery -->
     <script type="text/javascript" src="~/assets/js/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="~/assets/js/jquery-ui/jquery-ui.min.js "></script>

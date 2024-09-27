@@ -129,7 +129,7 @@ namespace WebApi.Controllers
         public IActionResult AddSalesInvoice(SalesInvoice si)
         {
             var result = db.Database.ExecuteSqlRaw(
-                $"EXEC InsertSalesInvoice {si.PartyId}, {si.InvoicedItemId}, {si.InvoiceId}, '{si.InvoiceDate}', '{si.DueDate}', {si.Amount}, {si.Quantity}"
+                $"EXEC InsertSalesInvoice  {si.PartyId}, {si.InvoicedItemId}, {si.InvoiceId}, '{si.InvoiceDate}', '{si.DueDate}', {si.Amount}, {si.Quantity}"
             );
 
             return Ok("Sales invoice added successfully");

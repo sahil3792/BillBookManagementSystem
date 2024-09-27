@@ -1,951 +1,963 @@
 {
   "Files": [
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebApp.bundle.scp.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\animate.css\\css\\animate.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\animate.css\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css\\css\\animate.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\chartist\\chartist.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\chartist\\chartist.css",
       "PackagePath": "staticwebassets\\assets\\css\\chartist\\chartist.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\ionicons.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\ionicons.css",
       "PackagePath": "staticwebassets\\assets\\css\\ionicons.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.css",
       "PackagePath": "staticwebassets\\assets\\css\\jquery.mCustomScrollbar.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\morris.js\\css\\morris.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\morris.js\\css\\morris.css",
       "PackagePath": "staticwebassets\\assets\\css\\morris.js\\css\\morris.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\HELP-US-OUT.txt",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\HELP-US-OUT.txt",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\HELP-US-OUT.txt"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\css\\font-awesome.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\css\\font-awesome.css",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\css\\font-awesome.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\animated.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\animated.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\animated.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\bordered-pulled.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\bordered-pulled.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\bordered-pulled.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\core.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\core.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\core.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\fixed-width.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\fixed-width.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\fixed-width.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\font-awesome.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\font-awesome.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\font-awesome.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\icons.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\icons.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\icons.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\larger.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\larger.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\larger.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\list.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\list.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\list.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\mixins.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\mixins.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\mixins.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\path.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\path.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\path.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\rotated-flipped.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\rotated-flipped.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\rotated-flipped.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\screen-reader.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\screen-reader.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\screen-reader.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\stacked.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\stacked.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\stacked.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\variables.less",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\less\\variables.less",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\less\\variables.less"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_animated.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_animated.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_animated.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_bordered-pulled.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_core.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_core.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_core.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_fixed-width.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_icons.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_icons.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_icons.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_larger.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_larger.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_larger.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_list.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_list.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_list.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_path.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_path.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_path.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_rotated-flipped.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_screen-reader.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_stacked.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_stacked.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_stacked.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_variables.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\font-awesome.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\font-awesome.css",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\font-awesome.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\font-awesome.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\font-awesome.scss",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\font-awesome\\scss\\font-awesome.scss",
       "PackagePath": "staticwebassets\\assets\\icon\\font-awesome\\scss\\font-awesome.scss"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\css\\icofont.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\css\\icofont.css",
       "PackagePath": "staticwebassets\\assets\\icon\\icofont\\css\\icofont.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.eot",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.eot",
       "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.eot"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.svg",
       "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.ttf",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.ttf",
       "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.ttf"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.woff",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\icofont\\fonts\\icofont.woff",
       "PackagePath": "staticwebassets\\assets\\icon\\icofont\\fonts\\icofont.woff"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.eot",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.eot"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.ttf"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.woff",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\fonts\\themify.woff"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\themify-icons.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\icon\\themify-icons\\themify-icons.css",
       "PackagePath": "staticwebassets\\assets\\icon\\themify-icons\\themify-icons.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\Thumbs.db",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\Thumbs.db",
       "PackagePath": "staticwebassets\\assets\\images\\Thumbs.db"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\Logo-small-bottom.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\Logo-small-bottom.png",
       "PackagePath": "staticwebassets\\assets\\images\\auth\\Logo-small-bottom.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\Thumbs.db",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\Thumbs.db",
       "PackagePath": "staticwebassets\\assets\\images\\auth\\Thumbs.db"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\logo-dark.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\logo-dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\auth\\logo-dark.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\logo.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\auth\\logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\auth\\logo.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-1.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatar-1.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-2.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatar-2.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-3.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatar-3.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-4.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatar-4.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-5.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-5.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatar-5.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-blank.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\avatar-blank.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\avatar-blank.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-130.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-130.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-130.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-r-1.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-r-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-r-1.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-r-2.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-r-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-r-2.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-r-3.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-r-3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-r-3.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-single-1.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-single-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single-1.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-single.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-single.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-single.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-small-bg-1.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\blog-small-bg-1.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-small-bg-1.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\st_gallery1.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\st_gallery1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\st_gallery1.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\st_gallery2.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\st_gallery2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\st_gallery2.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\st_gallery3.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\blog\\st_gallery3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\st_gallery3.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\breadcrumb-bg.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\breadcrumb-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\breadcrumb-bg.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\chrome.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\chrome.png",
       "PackagePath": "staticwebassets\\assets\\images\\browser\\chrome.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\firefox.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\firefox.png",
       "PackagePath": "staticwebassets\\assets\\images\\browser\\firefox.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\ie.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\ie.png",
       "PackagePath": "staticwebassets\\assets\\images\\browser\\ie.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\opera.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\opera.png",
       "PackagePath": "staticwebassets\\assets\\images\\browser\\opera.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\safari.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\browser\\safari.png",
       "PackagePath": "staticwebassets\\assets\\images\\browser\\safari.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\details_close.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\details_close.png",
       "PackagePath": "staticwebassets\\assets\\images\\details_close.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\details_open.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\details_open.png",
       "PackagePath": "staticwebassets\\assets\\images\\details_open.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\faq_man.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\faq_man.png",
       "PackagePath": "staticwebassets\\assets\\images\\faq_man.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\favicon.ico",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\logo-blue.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\logo-blue.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-blue.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\logo-compact.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\logo-compact.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo-compact.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\logo.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\logo.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mCSB_buttons.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mCSB_buttons.png",
       "PackagePath": "staticwebassets\\assets\\images\\mCSB_buttons.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mega-menu\\01.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mega-menu\\01.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\01.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mega-menu\\02.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mega-menu\\02.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\02.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mega-menu\\03.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\mega-menu\\03.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\mega-menu\\03.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\select-arrow.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\select-arrow.png",
       "PackagePath": "staticwebassets\\assets\\images\\select-arrow.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\tooltip\\Euclid.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\tooltip\\Euclid.png",
       "PackagePath": "staticwebassets\\assets\\images\\tooltip\\Euclid.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\tooltip\\shape1.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\tooltip\\shape1.svg",
       "PackagePath": "staticwebassets\\assets\\images\\tooltip\\shape1.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\tooltip\\tooltip1.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\tooltip\\tooltip1.svg",
       "PackagePath": "staticwebassets\\assets\\images\\tooltip\\tooltip1.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\user-bg.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\user-bg.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\user-bg.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\AUSTRALIA.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\AUSTRALIA.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\AUSTRALIA.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\BRAZIL.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\BRAZIL.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\BRAZIL.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\DIGITALPEN.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\DIGITALPEN.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\DIGITALPEN.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\GERMANY.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\GERMANY.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\GERMANY.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\IPAD.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\IPAD.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\IPAD.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE1.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE1.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE2.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE2.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE3.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE3.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE4.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\PHONE4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\PHONE4.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\TABLET.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\TABLET.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\TABLET.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\UK.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\UK.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\UK.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\USA.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\USA.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\USA.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod1.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\prod1.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod2.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\prod2.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod3.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod3.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\prod3.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod4.jpg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\prod4.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\prod4.jpg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2bottom.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2bottom.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\wather2bottom.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2m.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2m.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\wather2m.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2star1.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2star1.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\wather2star1.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2star2.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wather2star2.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\wather2star2.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\watherbottom.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\watherbottom.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\watherbottom.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wathernature.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\wathernature.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\wathernature.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\watherstar1.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\watherstar1.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\watherstar1.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\watherstar2.png",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\images\\widget\\watherstar2.png",
       "PackagePath": "staticwebassets\\assets\\images\\widget\\watherstar2.png"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\SmoothScroll.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\invoice.css",
+      "PackagePath": "staticwebassets\\assets\\invoice.css"
+    },
+    {
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\invoice.js",
+      "PackagePath": "staticwebassets\\assets\\invoice.js"
+    },
+    {
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\invoiceprint.css",
+      "PackagePath": "staticwebassets\\assets\\invoiceprint.css"
+    },
+    {
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\SmoothScroll.js",
       "PackagePath": "staticwebassets\\assets\\js\\SmoothScroll.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\bootstrap-growl.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\bootstrap-growl.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap-growl.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\chart.js\\Chart.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\chart.js\\Chart.js",
       "PackagePath": "staticwebassets\\assets\\js\\chart.js\\Chart.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\common-pages.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\common-pages.js",
       "PackagePath": "staticwebassets\\assets\\js\\common-pages.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-slimscroll\\jquery.slimscroll.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery-ui\\jquery-ui.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery-ui\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery-ui\\jquery-ui.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery.mousewheel.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery.mousewheel.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery.mousewheel.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery\\jquery.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\jquery\\jquery.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\jquery\\jquery.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\modernizr\\css-scrollbars.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\modernizr\\css-scrollbars.js",
       "PackagePath": "staticwebassets\\assets\\js\\modernizr\\css-scrollbars.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\modernizr\\modernizr.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\modernizr\\modernizr.js",
       "PackagePath": "staticwebassets\\assets\\js\\modernizr\\modernizr.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\morris-custom-chart.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\morris-custom-chart.js",
       "PackagePath": "staticwebassets\\assets\\js\\morris-custom-chart.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\morris.js\\morris.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\morris.js\\morris.js",
       "PackagePath": "staticwebassets\\assets\\js\\morris.js\\morris.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\pcoded.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\pcoded.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\pcoded.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\popper.js\\popper.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\popper.js\\popper.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\popper.js\\popper.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\raphael\\raphael.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\raphael\\raphael.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\raphael\\raphael.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\script.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\script.js",
       "PackagePath": "staticwebassets\\assets\\js\\script.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\script.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\script.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\script.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\vertical-layout.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\js\\vertical-layout.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vertical-layout.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\accordion\\accordion.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\accordion\\accordion.js",
       "PackagePath": "staticwebassets\\assets\\pages\\accordion\\accordion.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\accordion\\accordion.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\accordion\\accordion.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\accordion\\accordion.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\amchart.css",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\css\\amchart.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\export.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\css\\export.css",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\css\\export.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\amcharts.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\custom-amchart.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\export.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\export.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBig.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\images\\dragIconRoundBigH.svg"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\light.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\light.js",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\light.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\amchart\\js\\serial.js",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\amchart\\js\\serial.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\custom-dashboard.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\dashboard\\custom-dashboard.js",
       "PackagePath": "staticwebassets\\assets\\pages\\dashboard\\custom-dashboard.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\google-maps\\gmaps.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\google-maps\\gmaps.js",
       "PackagePath": "staticwebassets\\assets\\pages\\google-maps\\gmaps.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\google-maps\\google-maps.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\google-maps\\google-maps.js",
       "PackagePath": "staticwebassets\\assets\\pages\\google-maps\\google-maps.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\icon-modal.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\icon-modal.js",
       "PackagePath": "staticwebassets\\assets\\pages\\icon-modal.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\notification\\notification.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\notification\\notification.css",
       "PackagePath": "staticwebassets\\assets\\pages\\notification\\notification.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\notification\\notification.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\notification\\notification.js",
       "PackagePath": "staticwebassets\\assets\\pages\\notification\\notification.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\todo\\todo.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\todo\\todo.js",
       "PackagePath": "staticwebassets\\assets\\pages\\todo\\todo.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\waves\\css\\waves.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\waves\\css\\waves.min.css",
       "PackagePath": "staticwebassets\\assets\\pages\\waves\\css\\waves.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\waves\\js\\waves.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\waves\\js\\waves.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\waves\\js\\waves.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\amcharts.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\amcharts.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\amcharts.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\export.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\export.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\export.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\gauge.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\gauge.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\gauge.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\light.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\light.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\light.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\light.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\light.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\light.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\pie.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\pie.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\pie.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\pie.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\pie.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\pie.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\serial.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\serial.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\serial.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\serial.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\amchart\\serial.min.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\amchart\\serial.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\excanvas.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\assets\\pages\\widget\\excanvas.js",
       "PackagePath": "staticwebassets\\assets\\pages\\widget\\excanvas.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

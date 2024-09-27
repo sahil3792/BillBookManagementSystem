@@ -16,7 +16,6 @@ namespace Invoice.Models
 
         public bool GSTRegistered { get; set; }  
 
-        public long ContactNumber { get; set; }  
-);
+        public long ContactNumber { get; set; } 
     }
 }

@@ -11,8 +11,8 @@ using WebApi.Data;
 namespace WebApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240926100609_receipts")]
-    partial class receipts
+    [Migration("20240927081735_new")]
+    partial class @new
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -239,6 +239,9 @@ namespace WebApi.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SalesInvoiceId"));
 
+                    b.Property<decimal>("Amount")
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<string>("DueDate")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -246,6 +249,9 @@ namespace WebApi.Migrations
                     b.Property<string>("InvoiceDate")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("InvoiceId")
+                        .HasColumnType("int");
 
                     b.Property<int>("InvoicedItemId")
                         .HasColumnType("int");

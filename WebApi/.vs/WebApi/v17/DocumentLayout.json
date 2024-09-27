@@ -1,58 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\janvi\\BillBookManagementSystem\\WebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\controllers\\addingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\controllers\\addingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\addingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\invoiceditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\invoiceditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\invoiceditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\migrations\\20240927081735_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\20240927081735_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\migrations\\20240926105138_updated-salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\20240926105138_updated-salesinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\migrations\\20240926100609_receipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\20240926100609_receipts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\abhimanyu mishra\\onedrive\\desktop\\saurav\\billbookmanagementsystem\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\janvi\\billbookmanagementsystem\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -68,11 +64,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddingController.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\AddingController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\AddingController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\AddingController.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\AddingController.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\AddingController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\AddingController.cs",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAiwJEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T10:10:20.783Z",
               "IsPinned": true,
@@ -80,15 +76,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
@@ -108,6 +96,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
@@ -115,60 +107,84 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Invoices.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Invoices.cs",
-              "RelativeDocumentMoniker": "WebApi\\Models\\Invoices.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Invoices.cs",
-              "RelativeToolTip": "WebApi\\Models\\Invoices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "20240927081735_new.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Migrations\\20240927081735_new.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240927081735_new.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Migrations\\20240927081735_new.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20240927081735_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:36:54.424Z"
+              "WhenOpened": "2024-09-27T08:17:36.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SalesInvoice.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\SalesInvoice.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\SalesInvoice.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\SalesInvoice.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\SalesInvoice.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\SalesInvoice.cs",
               "RelativeToolTip": "WebApi\\Models\\SalesInvoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T09:37:08.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "InvoicedItem.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\InvoicedItem.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\InvoicedItem.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\InvoicedItem.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\InvoicedItem.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\InvoicedItem.cs",
               "RelativeToolTip": "WebApi\\Models\\InvoicedItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T09:36:40.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "Inventories.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventories.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Inventories.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventories.cs",
+              "RelativeToolTip": "WebApi\\Models\\Inventories.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA0wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:35:42.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "WebApi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T09:29:33.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Category.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\Category.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Category.cs",
               "RelativeToolTip": "WebApi\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,10 +193,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T09:28:33.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Invoices.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Invoices.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Invoices.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Invoices.cs",
+              "RelativeToolTip": "WebApi\\Models\\Invoices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:36:54.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Parties.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Parties.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Parties.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\Parties.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Parties.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Parties.cs",
               "RelativeToolTip": "WebApi\\Models\\Parties.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -188,47 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Inventories.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventories.cs",
-              "RelativeDocumentMoniker": "WebApi\\Models\\Inventories.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventories.cs",
-              "RelativeToolTip": "WebApi\\Models\\Inventories.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA4wCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T09:35:42.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240926105138_updated-salesinvoice.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Migrations\\20240926105138_updated-salesinvoice.cs",
-              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240926105138_updated-salesinvoice.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Migrations\\20240926105138_updated-salesinvoice.cs",
-              "RelativeToolTip": "WebApi\\Migrations\\20240926105138_updated-salesinvoice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T10:51:38.648Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "20240926100609_receipts.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Migrations\\20240926100609_receipts.cs",
-              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240926100609_receipts.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Migrations\\20240926100609_receipts.cs",
-              "RelativeToolTip": "WebApi\\Migrations\\20240926100609_receipts.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T10:07:22.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Business.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Business.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Business.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\Business.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Business.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Business.cs",
               "RelativeToolTip": "WebApi\\Models\\Business.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,25 +242,13 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T09:29:02.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "D:\\janvi\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
-              "RelativeToolTip": "WebApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T09:28:33.858Z"
             }
           ]
         },
@@ -267,6 +259,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

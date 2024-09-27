@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rZV1J9bKPhkK2Z3+eujf8/7OrxDdOKdFMtrQL1CEpe7Oo1VuqVlsVpyamjfa1/BNbWeHsqMWFUXgsQctWsndbA==",
+  "dgSpecHash": "wY6f/nlXD4U=",
   "success": true,
-  "projectFilePath": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhimanyu Mishra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

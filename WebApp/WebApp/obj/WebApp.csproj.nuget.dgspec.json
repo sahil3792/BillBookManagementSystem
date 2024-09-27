@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\finan\\.nuget\\packages\\",
-        "outputPath": "D:\\janvi\\BillBookManagementSystem\\WebApp\\WebApp\\obj\\",
+        "projectPath": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\Abhimanyu Mishra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhimanyu Mishra\\OneDrive\\Desktop\\saurav\\BillBookManagementSystem\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\finan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Abhimanyu Mishra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

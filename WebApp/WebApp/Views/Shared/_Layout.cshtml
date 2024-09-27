@@ -38,6 +38,9 @@
     <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
     <!-- Style.css -->
     <link rel="stylesheet" type="text/css" href="~/assets/css/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
 </head>
 <div class="theme-loader">
     <div class="loader-track">
@@ -482,7 +485,9 @@
                         </div>
                     </div>
                     <!-- Page-header end -->
-                   
+                    <div>
+                        @RenderBody()
+                    </div>
                 </div>
             </div>
         </div>
@@ -532,9 +537,7 @@
 </div>
 <![endif]-->
 <body>
-    <div>
-        @RenderBody()
-    </div>
+   
     <!-- Required Jquery -->
     <script type="text/javascript" src="~/assets/js/jquery/jquery.min.js"></script>
     <script type="text/javascript" src="~/assets/js/jquery-ui/jquery-ui.min.js "></script>

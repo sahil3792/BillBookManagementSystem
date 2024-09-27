@@ -717,6 +717,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript.js"
+    },
+    {
       "Id": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

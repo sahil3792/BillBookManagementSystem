@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,41 +98,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQBAAATAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Notification.cshtml",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Notification.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Notification.cshtml",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Notification.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T08:41:16.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T08:41:10.156Z",
+              "WhenOpened": "2024-09-26T15:28:26.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-26T15:20:16.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Register.cs",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
+              "RelativeToolTip": "WebApp\\Models\\Register.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:40:58.788Z",
+              "WhenOpened": "2024-09-26T09:25:02.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Register\\Register.cshtml",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Register\\Register.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T09:24:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:23:30.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-27T08:51:11.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:27:07.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-27T09:37:14.139Z",
               "EditorCaption": ""
             }
           ]

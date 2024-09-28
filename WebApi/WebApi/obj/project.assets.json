@@ -3878,19 +3878,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

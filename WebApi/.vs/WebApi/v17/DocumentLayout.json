@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapi\\webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapi\\webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\admin\\documents\\billbookmanagementsystem\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,37 +18,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "WebApi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAADgvwkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T11:59:23.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T11:59:23.173Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PartyController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\PartyController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\PartyController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-27T11:56:41.425Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

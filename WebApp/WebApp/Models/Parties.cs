@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyBillBook.Models
+namespace WebApp.Models
 {
     public class Parties
     {

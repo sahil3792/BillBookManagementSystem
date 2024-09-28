@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MyBillBook.Models;
+
 using Newtonsoft.Json;
 using System.Net.Security;
 using System.Text;
 using System.Text.Json.Serialization;
+using WebApp.Models;
 
 namespace MyBillBook.Controllers
 {
@@ -28,7 +29,7 @@ namespace MyBillBook.Controllers
         [HttpPost]
         public IActionResult AddParties(Parties p)
         {
-            string url = "https://localhost:44312/api/Party/AddParties";
+            string url = "https://localhost:7254/api/Party/AddParties";
             var jsondata = JsonConvert.SerializeObject(p);
             StringContent content=new StringContent(jsondata,Encoding.UTF8,"application/json");
             HttpResponseMessage response=client.PostAsync(url, content).Result;
@@ -43,7 +44,7 @@ namespace MyBillBook.Controllers
         public IActionResult GetAllParties()
         {
             List<Parties> party= new List<Parties>();
-            string url = "https://localhost:44312/api/Party/GetAllParties";
+            string url = "https://localhost:7254/api/Party/GetAllParties";
             HttpResponseMessage response=client.GetAsync(url).Result;
             if(response.IsSuccessStatusCode)
             {
@@ -60,8 +61,8 @@ namespace MyBillBook.Controllers
         public IActionResult GetParties()
         {
             List<Parties> party = new List<Parties>();
-            string url = "https://localhost:44312/api/Party/GetAllParties";
-            HttpResponseMessage response = client.GetAsync(url).Result;
+            string url = "https://localhost:7254/api/Party/GetAllParties";
+              HttpResponseMessage response = client.GetAsync(url).Result;
             if (response.IsSuccessStatusCode)
             {
                 var jsondata = response.Content.ReadAsStringAsync().Result;
@@ -77,7 +78,7 @@ namespace MyBillBook.Controllers
         public IActionResult SearchParties(string categories)
         {
             List<Parties> party = new List<Parties>();
-            string url = $"https://localhost:44312/api/Party/SearchByCategory/{categories}";
+            string url = $"https://localhost:7254/api/Party/SearchByCategory/{categories}";
             HttpResponseMessage response = client.GetAsync(url).Result;
             if(response.IsSuccessStatusCode)
             {

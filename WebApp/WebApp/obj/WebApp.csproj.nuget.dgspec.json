@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\BillBookManagementSystem\\WebApp\\WebApp\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,13 +48,13 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.8, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",

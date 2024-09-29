@@ -42,13 +42,7 @@ namespace WebApi.Controllers
             {
                 var data = db.party.FromSqlRaw("EXEC Fetchallpartydefaultcategorydate @partycategory", new SqlParameter("@partycategory", categoryid)).ToList();
 
-                if (data == null || data.Count == 0)
-                {
-                    Console.WriteLine("No data returned from database.");
-                    return NotFound("No parties found.");
-                }
-
-                Console.WriteLine($"Returning {data.Count} parties.");
+                
                 return Ok(data);
             }
             catch (Exception ex)

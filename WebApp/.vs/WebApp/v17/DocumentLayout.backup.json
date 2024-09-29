@@ -1,18 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\kirti\\source\\repos\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|d:\\jyoti_shukla\\billbookmanagementsystem\\webapp\\webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\views\\report\\itemreportbyparty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\report\\itemreportbyparty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\models\\itemreportbypartyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\itemreportbypartyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\wwwroot\\ajax\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\controllers\\pdfservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\pdfservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\wwwroot\\ajax\\dowmloadpdf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\dowmloadpdf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\views\\report\\partywiseoutstanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\report\\partywiseoutstanding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\views\\report\\salesdaybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\report\\salesdaybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\kirti\\source\\repos\\webapp\\webapp\\views\\report\\purchasedaybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\report\\purchasedaybook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,12 +53,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "DockedWidth": 266,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -38,11 +70,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Bookmark",
@@ -66,10 +98,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -78,47 +106,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAOQBAAAAAAAAAAAAAOQBAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T08:41:16.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-26T08:41:10.156Z",
+              "DocumentIndex": 4,
+              "Title": "ItemReportByPartyViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Models\\ItemReportByPartyViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ItemReportByPartyViewModel.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Models\\ItemReportByPartyViewModel.cs",
+              "RelativeToolTip": "WebApp\\Models\\ItemReportByPartyViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T18:03:06.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\DashboardController.cs",
-              "ToolTip": "D:\\JYOTI_SHUKLA\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "ItemReportbyParty.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Models\\ItemReportbyParty.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\ItemReportbyParty.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Models\\ItemReportbyParty.cs",
+              "RelativeToolTip": "WebApp\\Models\\ItemReportbyParty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:40:58.788Z",
+              "WhenOpened": "2024-09-29T17:37:16.717Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "ViewState": "AgIAACkAAABgzMzMzMwwwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T17:29:44.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemReportByParty.cshtml",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\ItemReportByParty.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Report\\ItemReportByParty.cshtml",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\ItemReportByParty.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Report\\ItemReportByParty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T16:45:40.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Controllers\\PdfServiceController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PdfServiceController.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Controllers\\PdfServiceController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PdfServiceController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:13:58.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dowmloadPDF.js",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\wwwroot\\Ajax\\dowmloadPDF.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\dowmloadPDF.js",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\wwwroot\\Ajax\\dowmloadPDF.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\dowmloadPDF.js",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T14:43:28.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Controllers\\ReportController.cs*",
+              "RelativeToolTip": "WebApp\\Controllers\\ReportController.cs*",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAvwHgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:21:10.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JavaScript1.js",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "ViewState": "AgIAABgAAADAMTMzMzMrwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-29T17:04:48.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalesDayBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\SalesDayBook.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Report\\SalesDayBook.cshtml",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\SalesDayBook.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Report\\SalesDayBook.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAABQPQwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T16:46:02.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PartywiseOutstanding.cshtml",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\PartywiseOutstanding.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Report\\PartywiseOutstanding.cshtml",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\PartywiseOutstanding.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Report\\PartywiseOutstanding.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T16:47:21.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PurchaseDayBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\PurchaseDayBook.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Report\\PurchaseDayBook.cshtml",
+              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApp\\WebApp\\Views\\Report\\PurchaseDayBook.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Report\\PurchaseDayBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-29T16:45:53.813Z"
             }
           ]
         },
         {
-          "DockedWidth": 912,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {

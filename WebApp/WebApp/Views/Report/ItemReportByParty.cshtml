@@ -1,0 +1,38 @@
+﻿@model ItemReportByPartyViewModel
+<form method="post">
+<div>
+        <select id="partyCategory" asp-for="categoryid">
+        <option value="">Show All Parties</option>
+    </select>
+
+        <select id="partyName" asp-for="partyid">
+    <option value="">Select Party Names</option>
+    </select>
+    <input value="search" type="submit" class="btn btn-primary"/>
+</div>
+</form>
+
+
+@*  <a href="javascript:void(0);" onclick="downloadPDF()" class="btn btn-primary">Download PDF</a>
+ *@@*  <a href="javascript:void(0);" onclick="window.print();" class="btn btn-secondary">Print</a>
+ <a href="javascript:void(0);" onclick="window.print();" class="btn btn-primary">Download</a>
+ *@
+@* <a href="javascript:void(0);" onclick="shareOnWhatsApp()" class="btn btn-success">Share on WhatsApp</a>
+ *@
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Item Name</th>
+            <th scope="col">Item Code</th>
+            <th scope="col">Opening Stock</th>
+            <th scope="col">Sales Quantity</th>
+            <th scope="col">Sales Price</th>
+            <th scope="col">Purchase Price</th>
+        </tr>
+    </thead>
+    <tbody id="salesTableBody">
+    </tbody>
+</table>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/ajax/javascript.js"></script>

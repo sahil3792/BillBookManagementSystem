@@ -1,4 +1,4 @@
-﻿using Items.Models;
+﻿using WebApi.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
@@ -102,7 +102,5 @@ namespace WebApi.Controllers
                 return NotFound();
             return Ok(inventory);
         }
-
-
     }
 }

@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
-using MyBillBook_Api.Data;
-using MyBillBook_Api.Models;
+using WebApi.Data;
+using WebApi.Models;
 
 
-namespace MyBillBook_Api.Controllers
+namespace WebApi.Controllers
 {
     [Route("api/[Controller]")]
     [ApiController]

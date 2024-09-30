@@ -1,8 +1,7 @@
-﻿using Items.Models;
-using Microsoft.EntityFrameworkCore;
-using MyBillBook_Api.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using WebApi.Models;
 
-namespace MyBillBook_Api.Data
+namespace WebApi.Data
 {
     public class ApplicationDbContext:DbContext
     {

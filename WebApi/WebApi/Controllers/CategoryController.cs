@@ -1,4 +1,4 @@
-﻿using Items.Models;
+﻿using WebApi.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
@@ -18,14 +18,16 @@ namespace WebApi.Controllers
             _context = context;
         }
 
-        [HttpGet("GetCategory")]
+        [Route("GetCategory/")]
+        [HttpGet]
         public IActionResult GetCategories()
         {
             var categories = _context.Categories.FromSqlRaw("EXEC GetCategories").AsEnumerable().ToList();
             return Ok(categories);
         }
 
-        [HttpGet("GetCategoryById/{id}")]
+        [Route("GetCategoryById/{id}/")]
+        [HttpGet]
         public IActionResult GetCategoryById(int id)
         {
             var category = _context.Categories
@@ -41,7 +43,8 @@ namespace WebApi.Controllers
             return Ok(category);
         }
 
-        [HttpPost("AddCategory")]
+        [Route("AddCategory/")]
+        [HttpPost]
         public IActionResult AddCategory([FromBody] Category category)
         {
             if (category == null || string.IsNullOrWhiteSpace(category.CategoryName))
@@ -55,7 +58,8 @@ namespace WebApi.Controllers
             return Ok("Category added.");
         }
 
-        [HttpPut("UpdateCategory/{id}")]
+        [Route("UpdateCategory/{id}/")]
+        [HttpPut]
         public IActionResult UpdateCategory(int id, [FromBody] Category category)
         {
             if (category == null || string.IsNullOrWhiteSpace(category.CategoryName))
@@ -80,7 +84,8 @@ namespace WebApi.Controllers
             return NoContent();
         }
 
-        [HttpDelete("{id}")]
+        [Route("{id}/")]
+        [HttpDelete]
         public IActionResult DeleteCategory(int id)
         {
             var rowsAffected = _context.Database.ExecuteSqlRaw("EXEC DeleteCategory @CategoryId",

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace MyBillBook_Api.Models
+namespace WebApi.Models
 {
     public class Parties
     {

@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Share Items List";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <h2>@ViewData["Title"]</h2>
+    <form id="shareForm" method="post" action="@Url.Action("Share", "ItemsView")">
+        <div>
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" name="name" required />
+        </div>
+        <div>
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" required />
+        </div>
+        <div>
+            <label for="whatsapp">Your WhatsApp Number:</label>
+            <input type="text" id="whatsapp" name="whatsapp" required />
+        </div>
+        <button type="submit">Share</button>
+    </form>
+
+    <script>
+        document.getElementById('shareForm').onsubmit = async (e) => {
+            e.preventDefault();
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const whatsapp = document.getElementById('whatsapp').value;
+
+            const shareLink = `http://yourwebsite.com/ItemsView/Index`; // Modify this to your actual URL
+
+            // Sharing via Email
+            const emailBody = `Hello ${name},\n\nYou can download the Items List using this link: ${shareLink}\n\nBest Regards.`;
+            const mailtoLink = `mailto:${email}?subject=Items List&body=${encodeURIComponent(emailBody)}`;
+            window.open(mailtoLink, '_blank');
+
+            // Sharing via WhatsApp
+            const whatsappMessage = `Hello ${name},\n\nYou can download the Items List using this link: ${shareLink}`;
+            const whatsappLink = `https://api.whatsapp.com/send?phone=${whatsapp}&text=${encodeURIComponent(whatsappMessage)}`;
+            window.open(whatsappLink, '_blank');
+        };
+    </script>
+</body>
+</html>

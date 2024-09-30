@@ -1,5 +1,155 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model IEnumerable<dynamic>
+@using Newtonsoft.Json
+
+@* @model List<Sales> *@
+
+<style>
+    body {
+        background-color: white;
+        color: black;
+        transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    .dark-mode {
+        background-color: #1e1e1e; /* Dark background */
+        color: white; /* Light text color */
+    }
+
+    #salesChart {
+        width: 600px;
+        height: 400px;
+    }
+
+    #graphdiv {
+        width: 1000px;
+        margin-left: 43px;
+        margin-top: 25px;
+    }
+
+</style>
+
+
+<div id="graphdiv" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding:10px ; border-radius:5px;">
+    <h2>Sales Data (Monday to Sunday)</h2>
+
+    <div style="display: flex; justify-content: space-between;">
+        <!-- Left Side: Sales Chart -->
+        <div>
+            <canvas id="salesChart" width="600" height="400"></canvas>
+        </div>
+
+
+        <!-- Right Side: Total Sales and Number of Invoices for the Last 7 Days -->
+        <div id="rightside" style="margin-left: 50px; margin-right: 250px; margin-top: 33px;">
+            <h3>Total Sales (Last 7 Days)</h3>
+            <p style="font-size: 24px; font-weight: bold;">
+                @ViewBag.TotalAmountLast7Days.ToString("C") <!-- Display Total Amount as Currency -->
+            </p>
+
+            <h4>Number of Invoices (Last 7 Days)</h4>
+            <p style="font-size: 20px;">
+                @ViewBag.TotalInvoicesLast7Days <!-- Display Total Number of Invoices -->
+            </p>
+        </div>
+    </div>
+</div>
+
+@* <canvas id="salesChart" width="200" height="100"></canvas> *@
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    var ctx = document.getElementById('salesChart').getContext('2d');
+
+    // Labels for Monday to Sunday
+    var labels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+
+    // Extract the InvoiceAmount data
+    var data = @Html.Raw(Json.Serialize(Model.Select(s => s.invoiceAmount)));
+
+    var chartData = {
+        labels: labels,  // Days of the week
+        datasets: [{
+            label: 'Invoice Amount',
+            data: data,   // Invoice amounts for each day
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            borderColor: 'rgba(75, 192, 192, 1)',
+            borderWidth: 1
+        }]
+    };
+
+    var salesChart = new Chart(ctx, {
+        type: 'bar',  // You can change this to 'line', 'pie', etc.
+        data: chartData,
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+<script>
+    // Default theme
+    let isDarkMode = false;
+
+    function toggleTheme() {
+        isDarkMode = !isDarkMode;
+
+        // Update body class for theme
+        document.body.classList.toggle("dark-mode", isDarkMode);
+
+        // Update button text
+        document.getElementById("themeToggle").innerText = isDarkMode ? "Switch to Light Mode" : "Switch to Dark Mode";
+
+        // Update the graph colors
+        updateGraphTheme();
+    }
+
+    function updateGraphTheme() {
+        var chartColors = isDarkMode ? {
+            background: 'rgba(0, 0, 0, 0.8)',
+            border: 'rgba(255, 255, 255, 1)',
+            pointBackground: 'rgba(255, 255, 255, 1)'
+        } : {
+            background: 'rgba(255, 255, 255, 0.8)',
+            border: 'rgba(75, 192, 192, 1)',
+            pointBackground: 'rgba(75, 192, 192, 1)'
+        };
+
+        // Destroy and recreate the chart with updated colors
+        salesChart.destroy();
+
+        salesChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Invoice Amount',
+                    data: data,
+                    backgroundColor: chartColors.pointBackground,
+                    borderColor: chartColors.border,
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: isDarkMode ? 'rgba(255, 255, 255, 0.2)' : 'rgba(0, 0, 0, 0.1)'
+                        }
+                    },
+                    x: {
+                        grid: {
+                            color: isDarkMode ? 'rgba(255, 255, 255, 0.2)' : 'rgba(0, 0, 0, 0.1)'
+                        }
+                    }
+                }
+            }
+        });
+    }
+</script>
+
+

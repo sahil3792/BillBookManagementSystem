@@ -33,6 +33,8 @@ namespace WebApi.Controllers
             //_logger = logger;
         }
 
+
+
         [Route("PartywiseOutstanding/{categoryid}")]
         [HttpGet] 
         public IActionResult PartywiseOutstanding(int categoryid)
@@ -140,6 +142,14 @@ namespace WebApi.Controllers
         {
             var data = db.purchasesViewModel.FromSqlRaw($"exec PurchaseDaybookProcdefault").ToList();
             return Ok(data);
+        }
+
+        // GET: api/Sales
+        [Route("GetSalesGraph")]
+        [HttpGet]
+        public ActionResult<IEnumerable<Sales>> GetSales()
+        {
+            return db.sales.ToList();
         }
 
         //[Route("GetInvoiceDates")]

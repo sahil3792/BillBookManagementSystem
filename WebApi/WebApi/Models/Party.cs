@@ -11,6 +11,7 @@ namespace WebApi.Models
         public string Email { get; set; }
         public long PhoneNumber { get; set; }
         public long OpeningBalance { get; set; }
+        public string ToPayToCollect { get; set; }
         public string GSTINNumber { get; set; }
         public string PanCardNumber { get; set; }
         public string PartyType { get; set; }

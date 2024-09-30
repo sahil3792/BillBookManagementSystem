@@ -30,6 +30,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Inventory/AddInventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEFkZEludmVudG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Inventory/AddItems.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEFkZEl0ZW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Inventory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Parties/AddParties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGllc1xBZGRQYXJ0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Parties/GetAllParties.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGllc1xHZXRBbGxQYXJ0aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Parties/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/Sahil Shaikh/BillBookManagementSystem/WebApp/WebApp/Views/Report/ItemReportByParty.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEl0ZW1SZXBvcnRCeVBhcnR5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

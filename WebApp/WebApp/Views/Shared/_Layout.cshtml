@@ -264,7 +264,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="waves-effect waves-dark">
+                                <a class="waves-effect waves-dark" asp-controller="Party" asp-action="GetAllParties">
                                     <span class="pcoded-micon"><i class="ti-layers"></i><b>FC</b></span>
                                     <span class="pcoded-mtext" data-i18n="nav.form-components.main">Party</span>
                                     <span class="pcoded-mcaret"></span>
@@ -273,16 +273,23 @@
                             
 
                             <li class="pcoded-hasmenu">
-                                <a href="javascript:void(0)" class="waves-effect waves-dark">
+                                <a href="javascript:void(0)"  class="waves-effect waves-dark">
                                     <span class="pcoded-micon"><i class="ti-layout-grid2-alt"></i></span>
                                     <span class="pcoded-mtext" data-i18n="nav.basic-components.main">Items</span>
                                     <span class="pcoded-mcaret"></span>
                                 </a>
                                 <ul class="pcoded-submenu">
                                     <li class=" ">
-                                        <a  class="waves-effect waves-dark">
+                                        <a asp-controller="Inventory" asp-action="Index" class="waves-effect waves-dark">
                                             <span class="pcoded-micon"><i class="ti-angle-right"></i></span>
                                             <span class="pcoded-mtext" data-i18n="nav.basic-components.alert">Inventory</span>
+                                            <span class="pcoded-mcaret"></span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a class="waves-effect waves-dark" >
+                                            <span class="pcoded-micon"><i class="ti-layers"></i><b>FC</b></span>
+                                            <span class="pcoded-mtext">Parties</span>
                                             <span class="pcoded-mcaret"></span>
                                         </a>
                                     </li>

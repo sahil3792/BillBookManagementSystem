@@ -54,7 +54,7 @@ namespace WebApi.Controllers
         {
             try
             {
-                var data = db.party.Where(x => categories.Contains(x.PartyCategory) || categories.Contains(x.PartyName)).ToList();
+                var data = db.party.Where(x => categories.Contains(x.PartyName) || categories.Contains(x.PartyName)).ToList();
                 if (data != null)
                 {
                     return Ok(data);

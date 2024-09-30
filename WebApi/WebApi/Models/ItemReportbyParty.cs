@@ -7,7 +7,7 @@ namespace WebApi.Models
         [Key]
         public int id { get; set; }
         public string ItemType { get; set; }
-        public long CategoryID { get; set; }
+        public int CategoryID { get; set; }
         public string ItemName { get; set; }
         public decimal SalesPrice { get; set; }
         public string GSTTaxRate { get; set; }
@@ -19,7 +19,7 @@ namespace WebApi.Models
         public string PartyName { get; set; }
         public string Description { get; set; }
         public string Image { get; set; }
-        public long BusinessId { get; set; }
+        public int BusinessId { get; set; }
         public decimal SalesQuantity { get; set; }
     }
 }

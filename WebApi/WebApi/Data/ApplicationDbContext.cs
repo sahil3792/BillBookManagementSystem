@@ -18,6 +18,7 @@ namespace WebApi.Data
         public DbSet<partynames> partynames { get; set; }
         public DbSet<PartyCategory> PartyCategories { get; set; }
         public DbSet<ItemCategory> ItemCategories { get; set; }
+        public DbSet<PartyOutsandingViewModel> partyOutsandingViewModels { get; set; }  
         
     }
 }

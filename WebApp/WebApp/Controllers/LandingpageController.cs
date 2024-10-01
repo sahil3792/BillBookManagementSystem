@@ -43,29 +43,32 @@ namespace BillBookManagementSystem.Controllers
         //        return Json(new { success = false, message = "Invalid OTP. Please try again." });
         //    }
         //}
-        [HttpPost]
-        public IActionResult VerifyOtp(string otp, string email)
+        
+        public IActionResult VerifyOtp(string otp)
         {
             if (otp == _generatedOtp)
             {
                 // OTP is correct, check if the email exists in the session
                 var userEmail = HttpContext.Session.GetString("UserEmail");
 
-                if (!string.IsNullOrEmpty(userEmail))
-                {
-                    // Email exists in session, redirect based on business logic
-                    // Assume if email is new, redirect to dashboard, else to register
-                    bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
+                bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
+                return RedirectToAction("index", "Dashboard");
+                
+                //if (!string.IsNullOrEmpty(userEmail))
+                //{
+                //    // Email exists in session, redirect based on business logic
+                //    // Assume if email is new, redirect to dashboard, else to register
+                //    bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
 
-                    if (isExistingUser)
-                    {
-                        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
-                    }
-                    else
-                    {
-                        return Json(new { success = true, redirectUrl = Url.Action("Register", "Register") });
-                    }
-                }
+                //    if (isExistingUser)
+                //    {
+                //        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
+                //    }
+                //    else
+                //    {
+                //        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
+                //    }
+                //}
             }
 
             return Json(new { success = false, message = "Invalid OTP. Please try again." });

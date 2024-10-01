@@ -1,30 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\views\\report\\itemreportbyparty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\report\\itemreportbyparty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\AddParties.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Party\\AddParties.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T11:44:18.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -47,14 +44,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -87,84 +76,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Party.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Party.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
-              "RelativeToolTip": "WebApp\\Models\\Party.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:56:44.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PartyController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PartyController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\PartyController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PartyController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\PartyController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAIAwwDoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:53:28.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "doc.js",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\doc.js",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\js\\doc.js",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T08:51:55.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T08:48:35.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JavaScript.js",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T08:19:12.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemReportByParty.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Report\\ItemReportByParty.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Report\\ItemReportByParty.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Report\\ItemReportByParty.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Report\\ItemReportByParty.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T08:17:35.114Z",
-              "EditorCaption": ""
             }
           ]
         },

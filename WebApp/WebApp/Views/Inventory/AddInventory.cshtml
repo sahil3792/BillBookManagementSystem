@@ -1,6 +1,6 @@
 ﻿@model Inventory
 
-<form method="post" enctype="multipart/form-data" id="inventoryForm">
+@* <form method="post" enctype="multipart/form-data" id="inventoryForm">
     <div class="form-group">
         <label>Item Type</label>
         <div class="input-group">
@@ -20,12 +20,12 @@
     </div>
     <div class="form-group">
         <label for="categoryInput">Category</label>
-        @* <div class="input-group">
+        <!-- <div class="input-group">
             <input type="text" class="form-control" id="categoryInput" asp-for="Category.CategoryName" placeholder="Enter category">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" id="categoryDropdownButton" data-bs-toggle="dropdown" aria-expanded="false">
             </button>
             <ul class="dropdown-menu" id="categoryDropdown"></ul>
-        </div> *@
+        </div> -->
     </div>
     <div class="form-group">
         <label for="exampleInputPassword1">Item Name</label>
@@ -82,13 +82,141 @@
         <label asp-for="Description">Description</label>
         <input type="text" class="form-control" asp-for="Description" />
     </div>
-    @* <div class="form-group">
+    <!-- <div class="form-group">
         <label asp-for="Image">Upload Image</label>
         <input type="file" class="form-control" asp-for="Image" />
-    </div> *@
-    @* <button type="submit" class="btn btn-primary">Save</button> *@
+    </div> -->
+    <!-- <button type="submit" class="btn btn-primary">Save</button> -->
     <input type="submit" value="Save" class="btn btn-primary" />
 </form>
+ *@
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <h5>Inventory - Add Items</h5>
+            </div>
+            <div class="card-block">
+                <h4 class="sub-title">Item Type</h4>
+                <form method="post" enctype="multipart/form-data" id="inventoryForm">
+                    <div class="input-group row">
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label col-sm-2 col-form-label" for="flexRadioDefault2">Product</label>
+                            <div class="col-sm-10">
+                                <input class="form-check-input form-control col-sm-2 col-form-label" type="radio" asp-for="ItemType" value="Product" id="flexRadioDefault2" checked>
+                            </div>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label col-sm-2 col-form-label" for="flexRadioDefault1">Service</label>
+                            <div class="col-sm-10">
+                                <input class="form-check-input form-control col-sm-2 col-form-label" type="radio" asp-for="ItemType" value="Service" id="flexRadioDefault1">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="categoryInput" class="col-sm-2 col-form-label">Category</label>
+                    </div>
+                    <div class="form-group row">
+                        <label for="exampleInputPassword1" class="col-sm-2 col-form-label">Item Name</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Item Name" asp-for="ItemName">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" asp-for="SalesPrice">Sales Price</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" asp-for="SalesPrice" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="PurchasePrice">Purchase Price</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" asp-for="PurchasePrice" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label">GST Tax Rate(%)</label>
+                        <div class="col-sm-10">
+                            <select asp-for="GSTTaxRate" class="form-control">
+                                <option>0</option>
+                                <option>5</option>
+                                <option>12</option>
+                                <option>18</option>
+                                <option>28</option>
+                                <option>40</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="input-group row">
+                        <label class="col-sm-2 col-form-label">Select Box</label>
+                        <div class="col-sm-10">
+                            <select name="select" class="form-control">
+                                <option value="opt1">Select One Value Only</option>
+                                <option value="opt2">Type 2</option>
+                                <option value="opt3">Type 3</option>
+                                <option value="opt4">Type 4</option>
+                                <option value="opt5">Type 5</option>
+                                <option value="opt6">Type 6</option>
+                                <option value="opt7">Type 7</option>
+                                <option value="opt8">Type 8</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="input-group row">
+                        <label class="col-sm-2 col-form-label">Measuring Unit</label>
+                        <div class="col-sm-10">
+                            <select asp-for="MeasuringUnit" class="form-control">
+                                <option>Pieces(PCS)</option>
+                                <option>Grams(GMS)</option>
+                                <option>Kilograms(KGS)</option>
+                                <option>Millilitre(MLT)</option>
+                                <option>Litre(LTR)</option>
+                                <option>Dozen(DZN)</option>
+                                <option>Carton(CTN)</option>
+                                <option>Bottles(BTL)</option>
+                                <option>Box(BOX)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="OpeningStock">Opening Stock</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" asp-for="OpeningStock" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="ItemCode">Item Code</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" asp-for="ItemCode" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="HSNCode">HSN Code</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" asp-for="HSNCode" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="Description">Description</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" asp-for="Description" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label asp-for="Image">Upload Image</label>
+                        <div class="col-sm-10">
+                            <input type="file" class="form-control" asp-for="Image" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <input type="submit" value="Save" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script src="~/lib/jquery/dist/jquery.js"></script>

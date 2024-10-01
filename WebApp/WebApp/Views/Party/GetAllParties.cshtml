@@ -1,6 +1,6 @@
 ﻿@model List<Party>
 
-<div class="container-fluid">
+@* <div class="container-fluid">
     <h5>Parties</h5>
     <div class="row">
         <div class="col-md-4">
@@ -56,6 +56,99 @@
         </tbody>
     </table>
 
+</div>
+ *@
+
+
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <h5>Parties</h5>
+            </div>
+            <div class="card-block">
+                <h4 class="sub-title">All Parties</h4>
+                <div class="input-group row">
+                    <div class="form-check form-check-inline">
+                        <input type="text" id="allparties" readonly />
+                    </div>
+                </div>
+                <h4 class="sub-title">To Collect</h4>
+                <div class="input-group row">
+                    <div class="form-check form-check-inline">
+                        <input type="text" id="totalToCollect" readonly />
+                    </div>
+                </div>
+                <h4 class="sub-title">To Pay</h4>
+                <div class="input-group row">
+                    <div class="form-check form-check-inline">
+                        <input type="text" id="totaltopay" readonly />
+                    </div>
+                </div>
+                <div class="input-group row">
+                    <div class="form-check form-check-inline">
+                        <input type="text" placeholder="Search here..." style="width:50%" id="search" />
+                        <div class="col-sm-10">
+                            <input type="button" onclick="searchparties()" value="Search" class="btn btn-dark" />
+                        </div>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        <div class="col-sm-10">
+                            <a asp-controller="Party" asp-action="AddParties"><input type="submit" value="Create Party" class="btn btn-primary" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Create Item</h5>
+                        <div class="card-header-right">
+                            <ul class="list-unstyled card-option">
+                                <li><i class="fa fa fa-wrench open-card-option"></i></li>
+                                <li><i class="fa fa-window-maximize full-card"></i></li>
+                                <li><i class="fa fa-minus minimize-card"></i></li>
+                                <li><i class="fa fa-refresh reload-card"></i></li>
+                                <li><i class="fa fa-trash close-card"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="card-block table-border-style">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Party Name</th>
+                                        <th>Category</th>
+                                        <th>Mobile Number</th>
+                                        <th>Party type</th>
+                                        <th>Balance</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tabledata">
+                                        @foreach (var d in Model)
+                                        {
+                                        <tr id="itemRow-@d.id">
+                                            <td>@d.PartyName</td>
+                                            <td>@d.PartyCategory</td>
+                                            <td>@d.PhoneNumber</td>
+                                            <td>@d.PartyType</td>
+                                            <td>@d.OpeningBalance</td>
+                                            <td>
+                                                <button class="btn btn-sm btn-danger" onclick="deleteItem('@d.id')">Delete</button>
+                                            </td>
+                                        </tr>
+                                        }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <div>
+    </div>
+
+</div>
+</div>
 </div>
 
 <script src="~/lib/jquery/dist/jquery.min.js"></script>

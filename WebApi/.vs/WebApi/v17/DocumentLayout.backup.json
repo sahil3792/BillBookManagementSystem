@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kirti\\source\\repos\\WebApi\\",
+  "WorkspaceRootPath": "D:\\ProjecctBillBook\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\kirti\\source\\repos\\webapi\\webapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjecctBillBook\\WebApi\\WebApi\\Migrations\\20241001115331_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Migrations\\20241001115331_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Migrations\\20240929173858_partnameaddedinitemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApi\\Migrations\\20240929173858_partnameaddedinitemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\projecctbillbook\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\kirti\\source\\repos\\webapi\\webapi\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\projecctbillbook\\webapi\\webapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\projecctbillbook\\webapi\\webapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\projecctbillbook\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\projecctbillbook\\webapi\\webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\projecctbillbook\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 617,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
               "$type": "Bookmark",
@@ -38,11 +54,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -66,6 +82,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -74,42 +94,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240929173858_partnameaddedinitemreportbyparty.cs",
-              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Migrations\\20240929173858_partnameaddedinitemreportbyparty.cs",
-              "RelativeDocumentMoniker": "WebApi\\Migrations\\20240929173858_partnameaddedinitemreportbyparty.cs",
-              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Migrations\\20240929173858_partnameaddedinitemreportbyparty.cs",
-              "RelativeToolTip": "WebApi\\Migrations\\20240929173858_partnameaddedinitemreportbyparty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20241001115331_register.cs",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Migrations\\20241001115331_register.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\20241001115331_register.cs",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Migrations\\20241001115331_register.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\20241001115331_register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:38:58.766Z",
+              "WhenOpened": "2024-10-01T11:53:31.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T11:52:52.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ItemReportbyParty.cs",
-              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Models\\ItemReportbyParty.cs",
-              "RelativeDocumentMoniker": "WebApi\\Models\\ItemReportbyParty.cs",
-              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Models\\ItemReportbyParty.cs",
-              "RelativeToolTip": "WebApi\\Models\\ItemReportbyParty.cs",
-              "ViewState": "AgIAAAQAAACgMjMzMzM7wAwAAAAuAAAAAAAAAA==",
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\Register.cs",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Models\\Register.cs",
+              "RelativeToolTip": "WebApi\\Models\\Register.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T17:36:32.571Z",
+              "WhenOpened": "2024-10-01T11:52:21.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\kirti\\source\\repos\\WebApi\\WebApi\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\ReportController.cs",
-              "ViewState": "AgIAAEIAAACg/P////8uwEgAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T16:23:48.339Z",
+              "WhenOpened": "2024-10-01T08:59:07.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartyController.cs",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Controllers\\PartyController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PartyController.cs",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Controllers\\PartyController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PartyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:56:52.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:56:10.927Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ProjecctBillBook\\WebApi\\WebApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T08:33:03.172Z"
             }
           ]
         },

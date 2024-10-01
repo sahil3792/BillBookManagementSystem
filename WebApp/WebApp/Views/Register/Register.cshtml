@@ -1,0 +1,209 @@
+﻿@model Register
+<partial name="Notification"></partial>
+
+@{
+    Layout = "~/Views/Shared/Landing_Layout.cshtml";
+}
+
+<!-- Custom styles to complement Bootstrap -->
+<style>
+    
+    
+
+    .card {
+        width: 100%;
+        max-width: 500px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border: none;
+    }
+
+    .card-header {
+        background-color:;
+       
+        color:blue;
+        text-align: center;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+
+    /* Form input fields */
+    .form-control {
+        border-radius: 4px;
+        box-shadow: none;
+        margin-bottom: 15px;
+        padding: 10px;
+    }
+
+    .form-group label {
+        font-weight: 400;
+        padding-bottom:5px;
+    }
+
+    /* Primary button styling */
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+        background-color: #007bff;
+        border-color: #007bff;
+        border-radius: 4px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    /* Radio buttons styling */
+    .form-group input[type="radio"] {
+        margin-right: 5px;
+    }
+
+    .text-danger {
+        font-size: 0.875rem;
+    }
+
+    .wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        border-radius: 12px;
+        padding: 20px 30px 120px;
+        background: rgba(68,138,255,0.5);
+        box-shadow: 0 5px 10px rgba( 0, 0, 0, 0.1 );
+        overflow: hidden;
+        /* background-image: url('../Images/breadcrumb-bg.jpg'); */
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        background-image: url('../images/breadcrumb-bg.jpg');
+    }
+
+    .wrapper {
+        position: relative;
+        width: 100%;
+        border-radius: 12px;
+        padding: 20px 30px 120px;
+        overflow: hidden;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    }
+
+        /* Add a pseudo-element for the background color */
+        .wrapper::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(68, 138, 255, 0.5); /* Your semi-transparent color */
+            border-radius: 12px; /* Match the border radius of the wrapper */
+            z-index: 1; /* Place it below content */
+        }
+
+        .wrapper img {
+            width: 200px;
+            height: 100vh;
+            border-radius: 12px; /* Ensure image respects border radius */
+            z-index: 0; /* Ensure image is below the pseudo-element */
+        }
+
+        .wrapper > * {
+            position: relative; /* Ensure child elements are above the pseudo-element */
+            z-index: 2; /* Place content above background */
+        }
+</style>
+
+<!-- Form content -->
+<div class="wrapper">
+    <div class="card">
+        <div class="card-header" style=" padding-top: 20px;
+    padding-bottom: 10px;text-align:left;">
+            <h5 >Welcome 🙏, Let's set up MasstechBillBook for <br> your business</h5>
+        </div>
+        <div class="card-block p-4">
+            <form asp-action="Register" method="post">
+             
+                <div class="form-group">
+                    <label asp-for="BusinessName"></label>
+                    <input asp-for="BusinessName" class="form-control" placeholder="Enter your business name" />
+                    <span asp-validation-for="BusinessName" class="text-danger"></span>
+                </div>
+
+          
+                <div class="form-group">
+                    <label asp-for="BusinessRegistrationType"></label>
+                    <select asp-for="BusinessRegistrationType" class="form-control">
+                        <option>Select</option>
+                        <option value="Public Limited Company">Public Limited Company</option>
+                        <option value="Partnerships Firm">Partnerships Firm</option>
+                        <option value="Limited Liability Partnership">Limited Liability Partnership</option>
+                        <option value="One Person Company">One Person Company</option>
+                        <option value="Sole Proprietorship">Sole Proprietorship</option>
+                        <option value="Business Not Registered">Business Not Registered</option>
+                    </select>
+                    <span asp-validation-for="BusinessRegistrationType" class="text-danger"></span>
+                </div>
+
+              
+                <div class="form-group">
+                    <label asp-for="BusinessType"></label>
+                    <select asp-for="BusinessType" class="form-control">
+                        <option>Select</option>
+                        <option value="Retailer">Retailer</option>
+                        <option value="Wholesaler">Wholesaler</option>
+                        <option value="Distributor">Distributor</option>
+                        <option value="Manufacturer">Manufacturer</option>
+                        <option value="Services">Services</option>
+                    </select>
+                    <span asp-validation-for="BusinessType" class="text-danger"></span>
+                </div>
+
+               
+                <div class="form-group">
+                    <label asp-for="IndustryType"></label>
+                    <select asp-for="IndustryType" class="form-control">
+                        <option>Popular Industries</option>
+                        <option value="Electronics">Electronics</option>
+                        <option value="FMCG">FMCG</option>
+                        <option value="Garment/Clothing">Garment/Clothing</option>
+                        <option value="Hardware">Hardware</option>
+                    </select>
+                    <span asp-validation-for="IndustryType" class="text-danger"></span>
+                </div>
+
+            
+                <div class="form-group">
+                    <label>Is Your Business GST Registered?</label><br />
+                    <input type="radio" asp-for="GSTRegistered" value="true" /> Yes
+                    <input type="radio" asp-for="GSTRegistered" value="false" /> No
+                    <span asp-validation-for="GSTRegistered" class="text-danger"></span>
+                </div>
+
+               
+                <div class="form-group" id="gstNumberField" style="display:none;">
+                    <label asp-for="GSTNumber"></label>
+                    <input asp-for="GSTNumber" class="form-control" />
+                    <span asp-validation-for="GSTNumber" class="text-danger"></span>
+                </div>
+
+              
+                <div class="form-group">
+                    <label asp-for="ContactNumber"></label>
+                    <input asp-for="ContactNumber" class="form-control" placeholder="Enter your contact number" />
+                    <span asp-validation-for="ContactNumber" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<partial name="_ValidationScriptsPartial" />
+
+<!-- Importing jQuery -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/js/javascript.js"></script>
+

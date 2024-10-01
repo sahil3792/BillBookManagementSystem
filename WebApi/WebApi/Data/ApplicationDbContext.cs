@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApi.Models;
+using WebApi.Modules;
 
 namespace WebApi.Data
 {
@@ -19,6 +20,8 @@ namespace WebApi.Data
         public DbSet<PartyCategory> PartyCategories { get; set; }
         public DbSet<ItemCategory> ItemCategories { get; set; }
         public DbSet<PartyOutsandingViewModel> partyOutsandingViewModels { get; set; }  
+
+        public DbSet<Register> Registers { get; set; }
         
     }
 }

@@ -51,7 +51,7 @@ namespace BillBookManagementSystem.Controllers
                 // OTP is correct, check if the email exists in the session
                 var userEmail = HttpContext.Session.GetString("UserEmail");
 
-                bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
+                //bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
                 return RedirectToAction("index", "Dashboard");
                 
                 //if (!string.IsNullOrEmpty(userEmail))

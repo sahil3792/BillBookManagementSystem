@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\",
+  "WorkspaceRootPath": "D:\\BillBookManagementSystem\\WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\billbookmanagementsystem\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\billbookmanagementsystem\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapi\\webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\billbookmanagementsystem\\webapi\\webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapi\\webapi\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\billbookmanagementsystem\\webapi\\webapi\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\itemreportbyparty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapi\\webapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\billbookmanagementsystem\\webapi\\webapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapi\\webapi\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|d:\\billbookmanagementsystem\\webapi\\webapi\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F9B94DD-4EFF-49A1-9503-36A2ED35AF18}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -51,6 +51,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Bookmark",
@@ -74,10 +78,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
@@ -88,24 +88,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
+              "DocumentMoniker": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
+              "ToolTip": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\appsettings.json",
               "RelativeToolTip": "WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-01T10:02:14.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T10:02:14.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
+              "DocumentMoniker": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
               "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
+              "ToolTip": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Program.cs",
               "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T10:01:54.704Z",
               "EditorCaption": ""
@@ -114,22 +113,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "PartyController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
+              "DocumentMoniker": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\PartyController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
+              "ToolTip": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Controllers\\PartyController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\PartyController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:54:21.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T08:54:21.21Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ItemReportbyParty.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\ItemReportbyParty.cs",
+              "DocumentMoniker": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\ItemReportbyParty.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\ItemReportbyParty.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\ItemReportbyParty.cs",
+              "ToolTip": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\ItemReportbyParty.cs",
               "RelativeToolTip": "WebApi\\Models\\ItemReportbyParty.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventory.cs",
+              "DocumentMoniker": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventory.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventory.cs",
+              "ToolTip": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Inventory.cs",
               "RelativeToolTip": "WebApi\\Models\\Inventory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,9 +149,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Party.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Party.cs",
+              "DocumentMoniker": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Party.cs",
               "RelativeDocumentMoniker": "WebApi\\Models\\Party.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Party.cs",
+              "ToolTip": "D:\\BillBookManagementSystem\\WebApi\\WebApi\\Models\\Party.cs",
               "RelativeToolTip": "WebApi\\Models\\Party.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

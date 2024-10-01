@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\kirti-june batch 2024\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\BillBookManagementSystem\\WebApp\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Kirti-June Batch 2024\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAGcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T11:44:18.43Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -44,6 +26,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Bookmark",
@@ -64,10 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",

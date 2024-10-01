@@ -127,16 +127,16 @@
                                 <tbody id="tabledata">
                                         @foreach (var d in Model)
                                         {
-                                        <tr id="itemRow-@d.id">
-                                            <td>@d.PartyName</td>
-                                            <td>@d.PartyCategory</td>
-                                            <td>@d.PhoneNumber</td>
-                                            <td>@d.PartyType</td>
-                                            <td>@d.OpeningBalance</td>
-                                            <td>
-                                                <button class="btn btn-sm btn-danger" onclick="deleteItem('@d.id')">Delete</button>
-                                            </td>
-                                        </tr>
+                                            <tr id="itemRow-@d.id">
+                                                <td>@d.PartyName</td>
+                                                <td>@d.PartyCategory</td>
+                                                <td>@d.PhoneNumber</td>
+                                                <td>@d.PartyType</td>
+                                                <td>@d.OpeningBalance</td>
+                                                <td>
+                                                    <button class="btn btn-sm btn-danger" onclick="deleteItem('@d.id')">Delete</button>
+                                                </td>
+                                            </tr>
                                         }
                                 </tbody>
                             </table>

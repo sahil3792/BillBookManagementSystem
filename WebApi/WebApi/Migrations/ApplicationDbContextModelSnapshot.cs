@@ -76,7 +76,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("inventories");
+                    b.ToTable("inventories", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.InvoicedItem", b =>
@@ -101,7 +101,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("invoicedItems");
+                    b.ToTable("invoicedItems", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.Invoices", b =>
@@ -118,7 +118,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("invoices");
+                    b.ToTable("invoices", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.ItemCategory", b =>
@@ -135,7 +135,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("CategoryId");
 
-                    b.ToTable("ItemCategories");
+                    b.ToTable("ItemCategories", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.ItemReportbyParty", b =>
@@ -201,7 +201,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("itemReportbyParties");
+                    b.ToTable("itemReportbyParties", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.Party", b =>
@@ -261,7 +261,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("party");
+                    b.ToTable("party", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.PartyCategory", b =>
@@ -278,7 +278,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("PartyCategories");
+                    b.ToTable("PartyCategories", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.PartyOutsandingViewModel", b =>
@@ -313,7 +313,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("partyOutsandingViewModels");
+                    b.ToTable("partyOutsandingViewModels", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.Purchase", b =>
@@ -343,7 +343,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("PurchaseOrderId");
 
-                    b.ToTable("purchases");
+                    b.ToTable("purchases", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.PurchaseViewModel", b =>
@@ -375,7 +375,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("PurchaseOrderId");
 
-                    b.ToTable("purchasesViewModel");
+                    b.ToTable("purchasesViewModel", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.Sales", b =>
@@ -407,7 +407,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("id");
 
-                    b.ToTable("sales");
+                    b.ToTable("sales", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.SalesViewModel", b =>
@@ -454,7 +454,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("salesViewModel");
+                    b.ToTable("salesViewModel", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Models.partynames", b =>
@@ -471,7 +471,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("partynames");
+                    b.ToTable("partynames", (string)null);
                 });
 
             modelBuilder.Entity("WebApi.Modules.Register", b =>
@@ -515,7 +515,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Registers");
+                    b.ToTable("Registers", (string)null);
                 });
 #pragma warning restore 612, 618
         }

@@ -1,61 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\inventories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\purchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\purchaserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\purchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\mystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\mystock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\usaama\\desktop\\sahilbill\\billbookmanagementsystem\\webapp\\webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,23 +126,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -90,67 +138,266 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Business.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Business.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Business.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Business.cs",
-              "RelativeToolTip": "WebApp\\Models\\Business.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:58:36.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventory.cs",
-              "RelativeToolTip": "WebApp\\Models\\Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:32:08.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "doc.js",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\doc.js",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\js\\doc.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T09:00:37.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Register.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
-              "RelativeToolTip": "WebApp\\Models\\Register.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:56:34.851Z"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\Payment.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:08:06.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:05:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListPurchaseOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:04:52.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\Index.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\Index.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAowK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T09:04:05.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PurchaseController.cs",
+              "ViewState": "AQIAAMcAAACALjMzMzMwwNQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:01:53.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\PurchaseRequest.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\PurchaseRequest.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\PurchaseRequest.cs",
+              "RelativeToolTip": "WebApp\\Models\\PurchaseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:47:16.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\PurchaseOrder.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\PurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\PurchaseOrder.cs",
+              "RelativeToolTip": "WebApp\\Models\\PurchaseOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:46:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parties.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Parties.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Parties.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Parties.cs",
+              "RelativeToolTip": "WebApp\\Models\\Parties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:46:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyStock.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\MyStock.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\MyStock.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\MyStock.cs",
+              "RelativeToolTip": "WebApp\\Models\\MyStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:44:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\InvoiceDetails.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\InvoiceDetails.cs",
+              "RelativeToolTip": "WebApp\\Models\\InvoiceDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:44:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventories.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventories.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Inventories.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventories.cs",
+              "RelativeToolTip": "WebApp\\Models\\Inventories.cs",
+              "ViewState": "AQIAAAAAAADAzMzMzMwnwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:43:12.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Category.cs",
+              "RelativeToolTip": "WebApp\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:42:25.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\PaymentRequest.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\PaymentRequest.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\PaymentRequest.cs",
+              "RelativeToolTip": "WebApp\\Models\\PaymentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:37:08.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T07:21:29.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T07:21:17.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Business.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Business.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Business.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Business.cs",
+              "RelativeToolTip": "WebApp\\Models\\Business.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:58:36.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventory.cs",
+              "RelativeToolTip": "WebApp\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:32:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "doc.js",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\doc.js",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\doc.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-01T09:00:37.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Register.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
+              "RelativeToolTip": "WebApp\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:56:34.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LandingpageController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\LandingpageController.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\LandingpageController.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAvwDUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -159,121 +406,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Landingpage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Landingpage\\Index.cshtml",
-              "ViewState": "AgIAACkEAAAAAAAAAAAAADAEAAAWAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T09:00:49.804Z"
+              "WhenOpened": "2024-10-01T09:00:49.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHMAAABjAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T09:53:17.08Z"
+              "WhenOpened": "2024-10-01T09:53:17.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\RegisterController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:01:33.146Z"
+              "WhenOpened": "2024-10-01T09:01:33.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Register\\Register.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Register\\Register.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAE8AAAAhAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T09:03:11.95Z"
+              "WhenOpened": "2024-10-01T09:03:11.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Landing_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T10:38:09.567Z"
+              "WhenOpened": "2024-10-01T10:38:09.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
               "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:58:25.513Z"
+              "WhenOpened": "2024-10-01T08:58:25.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "Party.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\Party.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
               "RelativeToolTip": "WebApp\\Models\\Party.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:51:50.161Z"
+              "WhenOpened": "2024-10-01T08:51:50.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "GetAllParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T08:46:20.876Z"
+              "WhenOpened": "2024-10-01T08:46:20.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "AddParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "ToolTip": "C:\\Users\\usaama\\Desktop\\SahilBill\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T08:45:01.811Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-10-01T08:45:01.811Z",
+              "EditorCaption": ""
             }
           ]
         }

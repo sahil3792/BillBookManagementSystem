@@ -22,6 +22,20 @@ namespace WebApi.Data
         public DbSet<PartyOutsandingViewModel> partyOutsandingViewModels { get; set; }  
 
         public DbSet<Register> Registers { get; set; }
-        
+
+
+        //Purchase Module
+
+        public DbSet<PurchaseOrder> PurchaseOrders { get; set; }
+        public DbSet<MyStock> MyStocks { get; set; }
+        public DbSet<Inventories> Inventories { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Parties> Parties { get; set; }
+
+        public DbSet<Businesses> Businesses { get; set; }
+
+
     }
 }

@@ -9,7 +9,7 @@ namespace WebApi.Models
         //public int inoiceid {get; set; }
         public int InventoryItemid { get; set; }
         public string? PartyName { get; set; }
-        public DateTime invoicedate { get; set; }
+        public string invoicedate { get; set; }
         public decimal Amount { get; set; }
         public decimal salesprice { get; set; }
         public decimal purchaseprice { get; set; }

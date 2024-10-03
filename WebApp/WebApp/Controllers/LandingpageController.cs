@@ -1,6 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Net.Mail;
 using System.Net;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 
 namespace BillBookManagementSystem.Controllers
 {
@@ -8,7 +10,16 @@ namespace BillBookManagementSystem.Controllers
     {
         private static string _generatedOtp; // Store OTP in memory for simplicity
         private static string _userEmail;
+        HttpClient client;
 
+
+
+        public LandingpageController()
+        {
+            HttpClientHandler clienthandler = new HttpClientHandler();
+            clienthandler.ServerCertificateCustomValidationCallback = (sender, cert, chain, SslPolicyErrors) => { return true; };
+            client = new HttpClient(clienthandler);
+        }
         public IActionResult Index()
         {
             return View();
@@ -43,7 +54,6 @@ namespace BillBookManagementSystem.Controllers
         //        return Json(new { success = false, message = "Invalid OTP. Please try again." });
         //    }
         //}
-        
         public IActionResult VerifyOtp(string otp)
         {
             if (otp == _generatedOtp)
@@ -51,34 +61,71 @@ namespace BillBookManagementSystem.Controllers
                 // OTP is correct, check if the email exists in the session
                 var userEmail = HttpContext.Session.GetString("UserEmail");
 
-                //bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
-                return RedirectToAction("Register", "Register");
-                
-                //if (!string.IsNullOrEmpty(userEmail))
-                //{
-                //    // Email exists in session, redirect based on business logic
-                //    // Assume if email is new, redirect to dashboard, else to register
-                //    bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
+                // You can include logic here to check if the user exists and return the redirect URL if needed
+                // For demonstration, let's assume verification is successful
+                return Json(new { success = true });
+            }
+            else
+            {
+                return Json(new { success = false, message = "Invalid OTP. Please try again." });
+            }
+        }
+        //public IActionResult VerifyOtp(string otp)
+        //{
+        //    if (otp == _generatedOtp)
+        //    {
+        //        // OTP is correct, check if the email exists in the session
+        //        var userEmail = HttpContext.Session.GetString("UserEmail");
 
-                //    if (isExistingUser)
-                //    {
-                //        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
-                //    }
-                //    else
-                //    {
-                //        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
-                //    }
-                //}
+        //        //bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
+        //        return RedirectToAction("Register", "Register");
+
+        //        //if (!string.IsNullOrEmpty(userEmail))
+        //        //{
+        //        //    // Email exists in session, redirect based on business logic
+        //        //    // Assume if email is new, redirect to dashboard, else to register
+        //        //    bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
+
+        //        //    if (isExistingUser)
+        //        //    {
+        //        //        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
+        //        //    }
+        //        //    else
+        //        //    {
+        //        //        return Json(new { success = true, redirectUrl = Url.Action("Index", "Dashboard") });
+        //        //    }
+        //        //}
+        //    }
+
+        //    return Json(new { success = false, message = "Invalid OTP. Please try again." });
+        //}
+        public ActionResult CheckIfEmailExistsInDatabase()
+        {
+            var userEmail = HttpContext.Session.GetString("UserEmail");
+            string url = $"https://localhost:7254/api/Register/CheckExist/{userEmail}";
+
+            HttpResponseMessage response = client.GetAsync(url).Result;
+
+            if (response.IsSuccessStatusCode)
+            {
+                var jsondata = response.Content.ReadAsStringAsync();
+
+                if (jsondata.Result == "0")
+                {
+                    return RedirectToAction("Register", "Register");
+                }
+                else
+                {
+                    return RedirectToAction("Index", "Dashboard");
+                }
+            }
+            else
+            {
+                return View();
+
             }
 
-            return Json(new { success = false, message = "Invalid OTP. Please try again." });
         }
-        private bool CheckIfEmailExistsInDatabase(string email)
-        {
-           
-            return false;
-        }
-
         public ActionResult Success()
         {
             return View();
@@ -161,5 +208,22 @@ namespace BillBookManagementSystem.Controllers
                 smtp.Send(message);
             }
         }
+
+        public IActionResult logout()
+        {
+            // Sign out the user
+             HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+
+            // Delete all the cookies
+            var storedCookies = Request.Cookies.Keys;
+            foreach (var cookie in storedCookies)
+            {
+                Response.Cookies.Delete(cookie);
+            }
+
+            // Redirect to the desired action after logout
+            return RedirectToAction("Index", "Landingpage");
+        }
     }
+
 }

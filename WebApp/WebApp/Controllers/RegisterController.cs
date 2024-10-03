@@ -28,18 +28,18 @@ namespace WebApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Register(Register r)
+        public IActionResult Register(Businesses r)
         {
             var userEmail = HttpContext.Session.GetString("UserEmail");
 
-            if (ModelState.IsValid)
-            {
+            
                 if (string.IsNullOrWhiteSpace(r.GSTNumber))
                 {
                     r.GSTNumber = "Empty";
                 }
-               // r.GSTNumber = "Empty";
-                string url = $"https://localhost:7254/api/Register/Register/{userEmail}";
+              // r.GSTNumber = "Empty";
+                r.Email = userEmail;
+                string url = "https://localhost:7254/api/Register/Register";
                 var jsondata = JsonConvert.SerializeObject(r);
                 StringContent content = new StringContent(jsondata, Encoding.UTF8, "application/json");
                 HttpResponseMessage response = client.PostAsync(url, content).Result;
@@ -48,13 +48,8 @@ namespace WebApp.Controllers
                     TempData["Msg"] = "Registed Successfully";
                     return RedirectToAction("Index","Dashboard");
                 }
-               
-            }
-            else
-            {
-                TempData["Msg"] = "Something Went Wrong please try again later or Contact the system Admin";
-                return View();
-            }
+         
+            
 
             return View();
 

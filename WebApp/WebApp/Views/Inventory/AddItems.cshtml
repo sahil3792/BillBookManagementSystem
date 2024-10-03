@@ -14,26 +14,24 @@
             <div class="card-block">
 
                 <form method="post" enctype="multipart/form-data" id="inventoryForm">
-                    <div class="form-group">
+                    <div class="form-group ">
                         <label>Item Type</label>
                         <div class="input-group">
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="radio" asp-for="ItemType" value="Product" id="flexRadioDefault2" > 
-                                <label class="form-check-label" for="flexRadioDefault2">
+                            <div class="form-check form-check-inline py-2 px-2">
+                                <input class="form-check-input" type="radio" asp-for="ItemType" value="Product" id="flexRadioDefaultProduct" name="ItemType">
+                                <label class="form-check-label" for="flexRadioDefaultProduct">
                                     Product
                                 </label>
-                                  <br />
-                                <input class="form-check-input" type="radio" name="flexRadioDefault" asp-for="ItemType" value="Service" id="flexRadioDefault1">
-                                <label class="form-check-label" for="flexRadioDefault1">
+                            </div>
+                            <div class="form-check form-check-inline py-2 px-2">
+                                <input class="form-check-input" type="radio" asp-for="ItemType" value="Service" id="flexRadioDefaultService" name="ItemType">
+                                <label class="form-check-label" for="flexRadioDefaultService">
                                     Service
                                 </label>
-
-                               @*  <input class ="form-check-input" type="radio" asp-for="ItemType" value="Product" id="flexRadioDefault2" /> Product
-                                <input class="form-check-input" type="radio" asp-for="ItemType" value="Service" id="flexRadioDefault2" /> service *@
                             </div>
-                         
-                           
                         </div>
+
+
                     </div>
                     <div class="form-group">
                         <label for="categoryInput">Category</label>

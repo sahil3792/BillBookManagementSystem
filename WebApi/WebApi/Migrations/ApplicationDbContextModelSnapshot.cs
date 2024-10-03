@@ -42,8 +42,9 @@ namespace WebApi.Migrations
                     b.Property<decimal>("Profit")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<DateTime>("invoicedate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("invoicedate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("purchaseprice")
                         .HasColumnType("decimal(18,2)");
@@ -621,14 +622,15 @@ namespace WebApi.Migrations
 
             modelBuilder.Entity("WebApi.Models.SalesSummaryResult", b =>
                 {
-                    b.Property<DateTime>("InvoiceDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("InvoiceDate")
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<decimal>("Amount")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<DateTime>("DueDate")
-                        .HasColumnType("datetime2");
+                    b.Property<string>("DueDate")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("InvoiceId")
                         .HasColumnType("int");

@@ -1072,21 +1072,23 @@
 
     function verifyOtp() {
         const otpInput = document.getElementById('otp').value;
-       
 
         $.ajax({
-            url: '/Landingpage/VerifyOtp?otp=' + encodeURIComponent(otpInput), // Pass OTP in the URL
-            type: 'POST',
-            contentType: 'application/json',
-            success: function(data) {
-                if (data.success) {
-                    // Redirect to the Index action of the Parties controller
-                    window.location.href = '/Register/Register';
+            url: '/Landingpage/VerifyOtp?otp=' + otpInput, // Pass OTP in the URL
+            type: 'GET',
+            contentType: 'application/json;charset=utf-8;', // Content type set
+            success: function (result, status, xhr) {
+                // If OTP is verified successfully
+                if (result.success) {
+                    alert('OTP verified successfully!'); // Optional alert for successful verification
+
+                    // Redirect to a specific page after verification
+                    window.location.href = 'https://localhost:7161/LandingPage/CheckIfEmailExistsInDatabase';// Change this URL as needed
                 } else {
-                    alert(data.message); // Show the server error message
+                    alert(result.message); // Show the server error message
                 }
             },
-            error: function(jqXHR, textStatus, errorThrown) {
+            error: function (jqXHR, textStatus, errorThrown) {
                 console.error('Error:', textStatus, errorThrown);
                 alert('An error occurred while verifying the OTP.');
             }

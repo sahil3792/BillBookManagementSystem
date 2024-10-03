@@ -52,7 +52,7 @@ namespace BillBookManagementSystem.Controllers
                 var userEmail = HttpContext.Session.GetString("UserEmail");
 
                 //bool isExistingUser = CheckIfEmailExistsInDatabase(userEmail);
-                return RedirectToAction("index", "Dashboard");
+                return RedirectToAction("Register", "Register");
                 
                 //if (!string.IsNullOrEmpty(userEmail))
                 //{

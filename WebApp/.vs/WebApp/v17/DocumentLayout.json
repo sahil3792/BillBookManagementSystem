@@ -1,62 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\billwiseprofit\\allbillwiseprofit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\billwiseprofit\\allbillwiseprofit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\business.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\salessummary\\allsalessummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\salessummary\\allsalessummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\controllers\\salessummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\salessummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\doc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\controllers\\billwiseprofitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\billwiseprofitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\user\\documents\\projects\\billbookmanagementsystem\\webapp\\webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\models\\billwiseprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\billwiseprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\models\\allsalessummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\allsalessummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\models\\businesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\businesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\shukl\\onedrive\\documents\\project\\webapp\\webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,173 +117,267 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Business.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Business.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Business.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Business.cs",
-              "RelativeToolTip": "WebApp\\Models\\Business.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:58:36.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Inventory.cs",
-              "RelativeToolTip": "WebApp\\Models\\Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T18:32:08.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "doc.js",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\doc.js",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\doc.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\js\\doc.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-01T09:00:37.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Register.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Register.cs",
-              "RelativeToolTip": "WebApp\\Models\\Register.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:56:34.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LandingpageController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\LandingpageController.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\LandingpageController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAvwDUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:58:58.254Z",
+              "Title": "AllSalesSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T04:29:54.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Landingpage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Landingpage\\Index.cshtml",
-              "ViewState": "AgIAACkEAAAAAAAAAAAAADAEAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T09:00:49.804Z"
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-03T04:28:26.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHMAAABjAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AllBillWiseProfit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T09:53:17.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\RegisterController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:01:33.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Register\\Register.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Register\\Register.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAE8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T09:03:11.95Z"
+              "WhenOpened": "2024-10-03T04:22:29.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Landing_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T10:38:09.567Z"
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\Status.cs",
+              "RelativeToolTip": "WebApp\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:20:20.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillWiseProfit.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\BillWiseProfit.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\BillWiseProfit.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\BillWiseProfit.cs",
+              "RelativeToolTip": "WebApp\\Models\\BillWiseProfit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:18:48.941Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
-              "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Title": "AllSalesSummary.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\AllSalesSummary.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\AllSalesSummary.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\AllSalesSummary.cs",
+              "RelativeToolTip": "WebApp\\Models\\AllSalesSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:58:25.513Z"
+              "WhenOpened": "2024-10-03T04:17:57.321Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Party.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
-              "RelativeDocumentMoniker": "WebApp\\Models\\Party.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Party.cs",
-              "RelativeToolTip": "WebApp\\Models\\Party.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SalesSummaryController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\SalesSummaryController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\SalesSummaryController.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\SalesSummaryController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\SalesSummaryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T08:51:50.161Z"
+              "WhenOpened": "2024-10-03T04:16:34.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillWiseProfitController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\BillWiseProfitController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\BillWiseProfitController.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\BillWiseProfitController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\BillWiseProfitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T04:15:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Businesses.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\Businesses.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\Businesses.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Models\\Businesses.cs",
+              "RelativeToolTip": "WebApp\\Models\\Businesses.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:27:14.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GetAllParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:14:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAHMAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T08:46:20.876Z"
+              "WhenOpened": "2024-10-02T21:05:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T20:54:33.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T20:51:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\AddParties.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Party\\AddParties.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T20:46:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\Payment.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T20:43:45.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListPurchaseOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T20:43:15.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Purchase\\Index.cshtml",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAIwG8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T20:42:05.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:37:14.302Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "AddParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-01T08:45:01.811Z"
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\shukl\\OneDrive\\Documents\\project\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\PurchaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:33:23.652Z"
             }
           ]
         },
@@ -274,6 +388,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

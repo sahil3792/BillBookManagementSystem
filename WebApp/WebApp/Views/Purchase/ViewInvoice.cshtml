@@ -1,0 +1,131 @@
+﻿@* @model PurchaseRequest
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Invoice - Purchase Order @Model.PurchaseOrder.PurchaseOrderId</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        /* Basic styling for the invoice */
+        .invoice {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container invoice">
+        <h2 class="text-center">Invoice for Purchase Order @Model.PurchaseOrder.PurchaseOrderId</h2>
+
+        <h3>Purchase Order Details</h3>
+        <ul class="list-group">
+            <li class="list-group-item">Party Name: @Model.PurchaseOrder.PartyName</li>
+            <li class="list-group-item">Purchase Date: @Model.PurchaseOrder.PurchaseDate</li>
+            <li class="list-group-item">Status: @Model.PurchaseOrder.Status</li>
+            <li class="list-group-item">Total Amount: @Model.PurchaseOrder.Amount</li>
+            <li class="list-group-item">Valid Till: @Model.PurchaseOrder.ValidTill</li>
+        </ul>
+
+        <h3 class="mt-4">Stock Details</h3>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Item Name</th>
+                    <th>Item Code</th>
+                    <th>Quantity</th>
+                    <th>Category</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var stock in Model.Stocks)
+                {
+                    <tr>
+                        <td>@stock.ItemName</td>
+                        <td>@stock.ItemCode</td>
+                        <td>@stock.Quantity</td>
+                        <td>@stock.Category</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="text-center mt-4">
+            <a href="@Url.Action("DownloadInvoice", "Purchase", new { purchaseOrderId = Model.PurchaseOrder.PurchaseOrderId })" class="btn btn-danger">Download PDF Invoice</a>
+            <a href="@Url.Action("ListPurchaseOrders", "Purchase")" class="btn btn-primary">Back to Purchase Orders</a>
+        </div>
+    </div>
+</body>
+</html>
+ *@
+
+
+
+
+
+ @model PurchaseRequest
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .invoice {
+            margin-top: 20px;
+        }
+
+        .card-header h5, .card-block h5 {
+            margin-bottom: 15px;
+        }
+
+        .card-body ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+
+    <div class="container invoice">
+        <div class="card">
+            <div class="card-header">
+                <h5 class="text-center">Invoice for Purchase Order #@Model.PurchaseOrder.PurchaseOrderId</h5>
+            </div>
+            <div class="card-body">
+                <div class="container-fluid">
+                    <h5>Purchase Order Details</h5>
+                    <ul class="list-group">
+                        <li class="list-group-item"><b>Party Name:</b> @Model.PurchaseOrder.PartyName</li>
+                        <li class="list-group-item"><b>Purchase Date:</b> @Model.PurchaseOrder.PurchaseDate</li>
+                        <li class="list-group-item"><b>Status:</b> @Model.PurchaseOrder.Status</li>
+                        <li class="list-group-item"><b>Total Amount:</b> @Model.PurchaseOrder.Amount</li>
+                        <li class="list-group-item"><b>Valid Till:</b> @Model.PurchaseOrder.ValidTill</li>
+                    </ul>
+
+                    <hr />
+
+                    <h5 class="mt-4">Stock Details</h5>
+                    <table class="table table-bordered table-hover mt-3">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Item Name</th>
+                                <th scope="col">Item Code</th>
+                                <th scope="col">Quantity</th>
+                                <th scope="col">Category</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var stock in Model.Stocks)
+
+                            {
+                                <tr>
+                                    <td>@stock.ItemName</td>
+                                    <td>@stock.ItemCode</td>
+                                    <td>@stock.Quantity</td>
+                                    <td>@stock.Category</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="text-center mt-4">
+                    <a href="@Url.Action("DownloadInvoice", "Purchase", new { purchaseOrderId = Model.PurchaseOrder.PurchaseOrderId })" class="btn btn-danger">Download PDF Invoice</a>
+                    <a href="@Url.Action("ListPurchaseOrders", "Purchase")" class="btn btn-primary">Back to Purchase Orders</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    

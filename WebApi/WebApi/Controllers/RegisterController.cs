@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 using WebApi.Data;
 
-using WebApi.Modules;
+using WebApi.Models;
 
 namespace WebApi.Controllers
 {
@@ -21,7 +21,7 @@ namespace WebApi.Controllers
         [Route("Register")]
         [HttpPost]
        
-        public IActionResult RegisterView(Register r)
+        public IActionResult RegisterView(Businesses r)
         {
            var data= db.Database.ExecuteSqlRaw($"Exec InsertRegister '{r.BusinessName}','{r.BusinessRegistrationType}','{r.BusinessType}','{r.IndustryType}','{r.GSTRegistered}','{r.GSTNumber}',{r.ContactNumber}");
             return Ok(data);

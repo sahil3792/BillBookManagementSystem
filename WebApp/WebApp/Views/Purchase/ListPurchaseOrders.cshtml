@@ -1,0 +1,136 @@
+﻿@* @model List<PurchaseOrder>
+
+
+    <a href="@Url.Action("Index", "Purchase")" class="btn btn-primary">Create Purchase Order</a>
+
+
+
+    <div class="container">
+        <h2>Purchase Orders</h2>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Purchase Order ID</th>
+                    <th>Party Name</th>
+                    <th>Purchase Date</th>
+                    <th>Due In</th>
+                    <th>Status</th>
+                    <th>Amount</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.PurchaseOrderId</td>
+                        <td>@order.PartyName</td>
+                        <td>@order.PurchaseDate</td>
+                        <td>@order.ValidTill</td>
+                        <td>@order.Status</td>
+                        <td>@order.Amount</td>
+                        <td>
+                            @if (order.Status == "Paid")
+                            {
+                                <a class="btn btn-info" asp-route-PurchaseOrderId="@order.PurchaseOrderId" asp-action="ViewInvoice">View Invoice</a>
+                            }
+                            else
+                            {
+                                <a class="btn btn-warning" asp-route-PurchaseOrderId="@order.PurchaseOrderId" asp-action="Payment">Payment</a>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+ *@
+
+
+
+
+ @model List<PurchaseOrder>
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-header">
+                <h5>Purchase Orders</h5>
+            </div>
+            <div class="card-block">
+
+                <div class="container-fluid">
+                    @if (TempData["SuccessMessage"] != null)
+
+                    {
+                        <div class="alert alert-success">
+                            @TempData["SuccessMessage"]
+                        </div>
+                    }
+
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="@Url.Action("Index", "Purchase")" class="btn btn-primary">Create Purchase Order</a>
+                        </div>
+                    </div>
+
+                    <hr />
+                    <div class="row mt-5">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Purchase Order ID</th>
+                                    <th scope="col">Party Name</th>
+                                    <th scope="col">Purchase Date</th>
+                                    <th scope="col">Due In</th>
+                                    <th scope="col">Status</th>
+                                    <th scope="col">Amount</th>
+                                    <th scope="col">Actions</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var order in Model)
+
+                                {
+                                    <tr>
+                                        <td>@order.PurchaseOrderId</td>
+                                        <td>@order.PartyName</td>
+                                        <td>@order.PurchaseDate</td>
+                                        <td>@order.ValidTill</td>
+                                        <td>@order.Status</td>
+                                        <td>@order.Amount</td>
+                                        <td>
+                                            @if (order.Status == "Paid")
+
+                                            {
+                                                <a class="btn btn-info" asp-route-PurchaseOrderId="@order.PurchaseOrderId" asp-action="ViewInvoice">View Invoice</a>
+                                            }
+
+                                            else
+
+                                            {
+                                                <a class="btn btn-warning" asp-route-PurchaseOrderId="@order.PurchaseOrderId" asp-action="Payment">Payment</a>
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

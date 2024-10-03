@@ -21,4 +21,11 @@
     <Folder Include="Views\Parties\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="wwwroot\assets\images\logo.png">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

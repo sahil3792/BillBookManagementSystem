@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApi.Models;
-using WebApi.Modules;
+
 
 namespace WebApi.Data
 {
@@ -21,7 +21,21 @@ namespace WebApi.Data
         public DbSet<ItemCategory> ItemCategories { get; set; }
         public DbSet<PartyOutsandingViewModel> partyOutsandingViewModels { get; set; }  
 
-        public DbSet<Register> Registers { get; set; }
-        
+        //public DbSet<Businesses> Registers { get; set; }
+
+        public DbSet<PurchaseOrder> PurchaseOrders { get; set; }
+        public DbSet<MyStock> MyStocks { get; set; }
+      
+
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Parties> Parties { get; set; }
+
+        public DbSet<Businesses> Businesses { get; set; }
+
+        public DbSet<Status> status { get; set; }
+        public DbSet<SalesSummaryResult> salessummary { get; set; }
+        public DbSet<BillWiseProfit> billwiseprofit { get; set; }
+
     }
 }

@@ -1,44 +1,68 @@
 ﻿
 @*    @model List<Party>
- *@ 
-<div>
-    <select id="partyCategory">
-        <option value="">Show All Parties</option>
-    </select>
-
-@*     <select id="invoiceDate">
-        <option value="">Select Invoice Date</option>
-    </select>
- *@</div>
-
-@* <a href="javascript:void(0);" onclick="downloadPDF()" class="btn btn-primary">Download PDF</a>
- *@@* <a href="javascript:void(0);" onclick="window.print();" class="btn btn-secondary">Print</a>
-<a href="javascript:void(0);" onclick="window.print();" class="btn btn-primary">Download</a>
  *@
-@* <a href="javascript:void(0);" onclick="shareOnWhatsApp()" class="btn btn-success">Share on WhatsApp</a>
- *@
-<table class="table">
-    <thead>
-        <tr>
-            <th scope="col">Party Name</th>
-            <th scope="col">Party Category</th>
-            <th scope="col">Phone Number</th>
-            <th scope="col">Closing Balance</th>
-        </tr>
-    </thead>
-    <tbody id="salesTableBody">
-@*          @foreach (var party in Model)
-         {
-              <tr>
-                 <td>@party.PartyName</td>
-                 <td>@party.PartyCategory</td>
-                 <td>@party.PhoneNumber</td>
-                 <td>@party.OpeningBalance</td>
-             </tr>
-         }
-        *@
-    </tbody>
-</table>
+
+
+
+<div class="row">
+    <div class="col-sm-12">
+
+        <div class="card">
+            <div class="card-header">
+                <h5>PartyWise Outstanding</h5>
+
+            </div>
+            <div class="card-block">
+                <form method="post">
+                    <select id="partyCategory">
+                        <option value="">Show All Parties</option>
+                    </select>
+                </form>
+
+
+                <div class="card-block table-border-style">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Party Name</th>
+                                    <th scope="col">Party Category</th>
+                                    <th scope="col">Phone Number</th>
+                                    <th scope="col">Closing Balance</th>
+                                </tr>
+                            </thead>
+                            <tbody id="salesTableBody">
+                                @*          @foreach (var party in Model)
+                                {
+                                <tr>
+                                <td>@party.PartyName</td>
+                                <td>@party.PartyCategory</td>
+                                <td>@party.PhoneNumber</td>
+                                <td>@party.OpeningBalance</td>
+                                </tr>
+                                }
+                                *@
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script src="~/ajax/javascript1.js"></script>

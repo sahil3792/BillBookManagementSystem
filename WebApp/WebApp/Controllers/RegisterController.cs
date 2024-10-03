@@ -1,8 +1,12 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Security.Claims;
 using System.Text;
 using WebApp.Models;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 
 namespace WebApp.Controllers
 {
@@ -56,24 +60,25 @@ namespace WebApp.Controllers
 
         }
 
-        public IActionResult AuthUser(string email)
+       
+      
+public async Task<IActionResult> Logout()
+    {
+        // Sign out the user
+        await HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+
+        // Delete all the cookies
+        var storedCookies = Request.Cookies.Keys;
+        foreach (var cookie in storedCookies)
         {
-            string url = "";
-
-            return View();
+            Response.Cookies.Delete(cookie);
         }
-        //public IActionResult Logout()
-        //{
-        //    HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
-        //    var storedcookies = Request.Cookies.Keys;
-        //    foreach (var cookie in storedcookies)
-        //    {
-        //        Response.Cookies.Delete(cookie);
-        //    }
-        //    return RedirectToAction("Index", "Dashboard");
 
-        //}
-
-
+        // Redirect to the desired action after logout
+        return RedirectToAction("Index", "Landingpage");
     }
+
+
+
+}
 }

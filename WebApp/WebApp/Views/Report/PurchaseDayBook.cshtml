@@ -1,54 +1,44 @@
 ﻿@model List<PurchaseViewModel>
 
-@* <select id="purchaseFilterType" onchange="fetchPurchaseInvoiceDates()">
-    <option value="">Select Filter Type</option>
-    <option value="day">Day</option>
-    <option value="week">Week</option>
-    <option value="month">Month</option>
-    <option value="quarter">Quarter</option>
-    <option value="year">Year</option>
-</select>
 
-<select id="fetchPurchaseInvoiceDate">
-    <option value="">Invoice Date</option>
-</select>
 
- *@
-@* <a href="javascript:void(0);" onclick="downloadPDF()" class="btn btn-primary">Download PDF</a>
- *@
- @* <button id="generatePdfBtn">PDF</button>
- *@
-<table class="table">
-    <thead>
-        <tr>
-            <th scope="col">Invoice ID</th> 
-            <th scope="col">Invoice Date</th>
-            <th scope="col">Party Name</th>
-            <th scope="col">Purchase Price</th> 
-            <th scope="col">GSTIN Number</th>
-        </tr>
-    </thead>
-    <tbody id="salesTableBody">
-        @foreach (var purchase in Model)
-        {
-            <tr>
-                <td>@purchase.PurchaseOrderId</td> 
-                <td>@purchase.InvoiceDate</td>
-                <td>@purchase.PartyName</td>
-                <td>@purchase.PurchaseAmount</td>
-                <td>@purchase.GSTINNumber</td>
-            </tr>
-        }
-    </tbody>
-</table>
 
-@* <link rel="stylesheet" href="https://cdn.datatables.net/1.13.3/css/jquery.dataTables.min.css">
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.3/js/jquery.dataTables.min.js"></script>
+<div class="card">
+    <div class="card-header">
+        <h5>Purchase DayBook</h5>
 
-<script src="~/lib/jquery/dist/jquery.min.js"></script>
-<script src="~/lib/jquery/dist/jquery.js">    </script>
-<script src="~/ajax/javascript.js"></script>
+    </div>
+    <div class="card-block table-border-style">
+        <div class="table-responsive">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">Invoice ID</th>
+                        <th scope="col">Invoice Date</th>
+                        <th scope="col">Party Name</th>
+                        <th scope="col">Purchase Price</th>
+                        <th scope="col">GSTIN Number</th>
+                    </tr>
+                </thead>
+                <tbody id="salesTableBody">
+                    @foreach (var purchase in Model)
+                    {
+                        <tr>
+                            <td>@purchase.PurchaseOrderId</td>
+                            <td>@purchase.InvoiceDate</td>
+                            <td>@purchase.PartyName</td>
+                            <td>@purchase.PurchaseAmount</td>
+                            <td>@purchase.GSTINNumber</td>
+                        </tr>
+                    }
+                </tbody>
 
- *@
+            </table>
+        </div>
+    </div>
+</div>
+
+
+
+
 

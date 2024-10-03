@@ -3,17 +3,10 @@ using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
-using System.Data;
-using System.Data.Common;
+
 using WebApi.Data;
 using WebApi.Models;
-using System.Linq;
-using HtmlAgilityPack;
-using OfficeOpenXml;
-using System.Drawing.Imaging;
-using System.Drawing.Printing;
-using System.Text;
-using System;
+
 //using DinkToPdf;
 //using DinkToPdf.Contracts;
 

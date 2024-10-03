@@ -204,6 +204,121 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "GetAllCategories",
+    "RelativePath": "api/Purchase/GetAllCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "GetAllParties",
+    "RelativePath": "api/Purchase/GetAllParties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "GetAllPurchaseOrderById",
+    "RelativePath": "api/Purchase/GetAllPurchaseOrderById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "GetAllPurchaseOrders",
+    "RelativePath": "api/Purchase/GetAllPurchaseOrders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "GetItemsByCategoryId",
+    "RelativePath": "api/Purchase/GetItemsByCategoryId/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "GetPartyStocksByBusinessId",
+    "RelativePath": "api/Purchase/GetPartyStocksByBusinessId/{businessId}/{purchaseOrderId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "businessId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "purchaseOrderId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "NewPurchase",
+    "RelativePath": "api/Purchase/NewPurchase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "purchaseRequest",
+        "Type": "WebApi.Models.PurchaseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.PurchaseController",
+    "Method": "SubmitPayment",
+    "RelativePath": "api/Purchase/SubmitPayment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentRequest",
+        "Type": "WebApi.Models.PaymentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "WebApi.Controllers.RegisterController",
     "Method": "RegisterView",
     "RelativePath": "api/Register/Register",
@@ -213,7 +328,7 @@
     "Parameters": [
       {
         "Name": "r",
-        "Type": "WebApi.Modules.Register",
+        "Type": "WebApi.Modules.Businesses",
         "IsRequired": true
       }
     ],

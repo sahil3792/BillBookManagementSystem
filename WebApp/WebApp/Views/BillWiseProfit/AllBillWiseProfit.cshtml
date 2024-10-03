@@ -1,0 +1,115 @@
+﻿@model IEnumerable<BillWiseProfit>
+
+@{
+    ViewData["Title"] = "All Bill Wise Profit";
+}
+
+@* <h1>All Bill Wise Profit</h1> *@
+
+@* <select id="FetchBill">
+    <option value="">Select Bill</option>
+    <!-- Add options dynamically if needed -->
+</select>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Bill To</th>
+            <th>Inventory Item ID</th>
+            <th>Party Name</th>
+            <th>Invoice Date</th>
+            <th>Amount</th>
+            <th>Sales Price</th>
+            <th>Purchase Price</th>
+            <th>Profit</th>
+        </tr>
+    </thead>
+    <tbody id="salesSummaryBody">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BillTo</td>
+                <td>@item.InventoryItemid</td>
+                <td>@item.PartyName</td>
+                <td>@item.invoicedate.ToString("d")</td> <!-- Format date as needed -->
+                <td>@item.Amount.ToString("C")</td> <!-- Format as currency if needed -->
+                <td>@item.salesprice.ToString("C")</td>
+                <td>@item.purchaseprice.ToString("C")</td>
+                <td>@item.Profit.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table> *@
+
+
+<div class="row">
+    <div class="col-sm-12">
+
+        <div class="card">
+            <div class="card-header">
+                <h5>All Bill Wise Profit</h5>
+
+            </div>
+            <div class="card-block">
+
+                <div class="container-fluid">
+                   @*  <h5>All Bill Wise Profit</h5> *@
+                    <div class="row">
+                        <div class="col-md-4">
+                            <select id="FetchBill">
+                                <option value="">Select Bill</option>
+                                <!-- Add options dynamically if needed -->
+                            </select>
+                        </div>
+                        
+                    </div>
+                </div>
+                <br />
+                <hr />
+
+                
+               
+                <div class="row mt-5">
+                    <table class="table table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Bill To</th>
+                                <th>Inventory Item ID</th>
+                                <th>Party Name</th>
+                                <th>Invoice Date</th>
+                                <th>Amount</th>
+                                <th>Sales Price</th>
+                                <th>Purchase Price</th>
+                                <th>Profit</th>
+                            </tr>
+                        </thead>
+                        <tbody id="salesSummaryBody">
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.BillTo</td>
+                                    <td>@item.InventoryItemid</td>
+                                    <td>@item.PartyName</td>
+                                    <td>@item.invoicedate.ToString("d")</td> <!-- Format date as needed -->
+                                    <td>@item.Amount.ToString("C")</td> <!-- Format as currency if needed -->
+                                    <td>@item.salesprice.ToString("C")</td>
+                                    <td>@item.purchaseprice.ToString("C")</td>
+                                    <td>@item.Profit.ToString("C")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        </div>
+
+
+
+    </div>
+</div>
+
+<script src="\lib\jquery\dist\jquery.min.js"></script>
+<script src="\lib\jquery\dist\jquery.js"></script>
+<script src="\ajax\javascript.js"></script>

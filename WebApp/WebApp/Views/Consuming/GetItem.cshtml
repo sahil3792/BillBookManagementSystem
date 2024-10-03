@@ -1,0 +1,31 @@
+﻿@model List<Inventories>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Item Name</th>
+            <th scope="col">Sales Price</th>
+            <th scope="col">GST</th>
+            <th scope="col">Measuring Unit</th>
+            <th scope="col">Item Code</th>
+            <th scope="col">HSN Code</th>
+            <th scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.ItemName</th>
+                <td>@d.SalesPrice</td>
+                <td>@d.GSTTaxRate</td>
+                <td>@d.MeasuringUnit</td>
+                <td>@d.ItemCode</td>
+                <td>@d.HSNCode</td>
+                <td>@d.Description</td>
+
+            </tr>
+
+        }
+
+    </tbody>
+</table>

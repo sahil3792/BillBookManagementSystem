@@ -1,125 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\consuming\\addsi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\consuming\\addsi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\wwwroot\\ajax\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\billwiseprofitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\billwiseprofitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\wwwroot\\landingassets\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\landingassets\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\wwwroot\\landingassets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\landingassets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\inventory\\additems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\inventory\\additems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\controllers\\salessummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\salessummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\billwiseprofit\\allbillwiseprofit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\billwiseprofit\\allbillwiseprofit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\salessummary\\allsalessummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\salessummary\\allsalessummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\consumingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\consumingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\ajax\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\ajax\\javascript1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\billwiseprofitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\billwiseprofitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\landing_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\landingassets\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\landingassets\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\wwwroot\\landingassets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\landingassets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\inventory\\additems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\inventory\\additems.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\controllers\\salessummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\salessummarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\billwiseprofit\\allbillwiseprofit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\billwiseprofit\\allbillwiseprofit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\salessummary\\allsalessummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\salessummary\\allsalessummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\getallparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\party\\addparties.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\models\\billwiseprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\models\\billwiseprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\billwiseprofit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\models\\allsalessummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\models\\allsalessummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\allsalessummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\models\\businesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\models\\businesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\businesses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\viewinvoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\listpurchaseorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\lenovo\\desktop\\asp.net all project\\bill\\webapp\\webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|c:\\users\\super-computers\\onedrive\\desktop\\billbookmanagementsystem\\webapp\\webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AB84D-F6D4-43D7-8892-C1DDC2C8A5AF}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\purchase\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -130,126 +142,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 266,
-          "SelectedChildIndex": 33,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AddSI.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Consuming\\AddSI.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Consuming\\AddSI.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Consuming\\AddSI.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Consuming\\AddSI.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T17:24:49.854Z",
+              "WhenOpened": "2024-10-03T19:44:48.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JavaScript1.js",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript1.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript1.js",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript1.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript1.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA0AAAA6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-03T17:21:40.312Z",
+              "WhenOpened": "2024-10-03T19:43:49.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
+              "Title": "ConsumingController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\ConsumingController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\ConsumingController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\ConsumingController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\ConsumingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:18:46.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:10:02.628Z",
+              "WhenOpened": "2024-10-03T19:38:52.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Register\\Register.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Register\\Register.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-03T15:52:47.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\StyleSheet.css",
               "RelativeDocumentMoniker": "WebApp\\wwwroot\\Landingassets\\css\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\StyleSheet.css",
               "RelativeToolTip": "WebApp\\wwwroot\\Landingassets\\css\\StyleSheet.css",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -257,11 +197,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\main.css",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\main.css",
               "RelativeDocumentMoniker": "WebApp\\wwwroot\\Landingassets\\css\\main.css",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\main.css",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Landingassets\\css\\main.css",
               "RelativeToolTip": "WebApp\\wwwroot\\Landingassets\\css\\main.css",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -269,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Landing_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\Landing_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\Landing_Layout.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Shared\\Landing_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -281,11 +221,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "AddItems.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Inventory\\AddItems.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Inventory\\AddItems.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Inventory\\AddItems.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Inventory\\AddItems.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Inventory\\AddItems.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Inventory\\AddItems.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -293,11 +233,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Landingpage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Landingpage\\Index.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Landingpage\\Index.cshtml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -305,11 +245,97 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACUCAAAAAAAAAAAAADsBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:05:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-03T04:28:26.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Register\\Register.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Register\\Register.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T15:52:47.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:10:02.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:18:46.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JavaScript1.js",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript1.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-03T17:21:40.312Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T17:24:49.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "LandingpageController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\LandingpageController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\LandingpageController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\LandingpageController.cs",
               "ViewState": "AgIAAF4AAAAAAAAAAAAiwH0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,11 +343,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "AllSalesSummary.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
               "RelativeToolTip": "WebApp\\Views\\SalesSummary\\AllSalesSummary.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -330,22 +356,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "JavaScript.js",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "RelativeDocumentMoniker": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "RelativeToolTip": "WebApp\\wwwroot\\Ajax\\JavaScript.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-03T04:28:26.464Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "AllBillWiseProfit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
               "RelativeToolTip": "WebApp\\Views\\BillWiseProfit\\AllBillWiseProfit.cshtml",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -353,11 +367,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\Status.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Status.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\Status.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Status.cs",
               "RelativeToolTip": "WebApp\\Models\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +379,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "BillWiseProfit.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\BillWiseProfit.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\BillWiseProfit.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\BillWiseProfit.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\BillWiseProfit.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\BillWiseProfit.cs",
               "RelativeToolTip": "WebApp\\Models\\BillWiseProfit.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +391,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "AllSalesSummary.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\AllSalesSummary.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\AllSalesSummary.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\AllSalesSummary.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\AllSalesSummary.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\AllSalesSummary.cs",
               "RelativeToolTip": "WebApp\\Models\\AllSalesSummary.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,11 +403,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "SalesSummaryController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\SalesSummaryController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\SalesSummaryController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\SalesSummaryController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\SalesSummaryController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\SalesSummaryController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\SalesSummaryController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAiwBgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +415,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "BillWiseProfitController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\BillWiseProfitController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\BillWiseProfitController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\BillWiseProfitController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\BillWiseProfitController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\BillWiseProfitController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\BillWiseProfitController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +427,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Businesses.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\Businesses.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Businesses.cs",
               "RelativeDocumentMoniker": "WebApp\\Models\\Businesses.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Models\\Businesses.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Models\\Businesses.cs",
               "RelativeToolTip": "WebApp\\Models\\Businesses.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -425,37 +439,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RegisterController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\RegisterController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\RegisterController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\RegisterController.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAASwDUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T21:14:50.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T21:14:50.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGQCAAAAAAAAAAAAAIcCAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T21:05:07.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ViewInvoice.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Purchase\\ViewInvoice.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,11 +463,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "GetAllParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Party\\GetAllParties.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\GetAllParties.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Party\\GetAllParties.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -475,11 +475,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "AddParties.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Party\\AddParties.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Party\\AddParties.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Party\\AddParties.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -487,11 +487,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Payment.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\Payment.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Payment.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Purchase\\Payment.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -499,11 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "ListPurchaseOrders.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Purchase\\ListPurchaseOrders.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -511,11 +511,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Views\\Purchase\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Views\\Purchase\\Index.cshtml",
               "RelativeToolTip": "WebApp\\Views\\Purchase\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -523,11 +523,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
               "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Program.cs",
               "RelativeToolTip": "WebApp\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -535,25 +535,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "PurchaseController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
               "RelativeDocumentMoniker": "WebApp\\Controllers\\PurchaseController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\asp.net all project\\bill\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\SUPER-COMPUTERS\\OneDrive\\Desktop\\BillBookManagementSystem\\WebApp\\WebApp\\Controllers\\PurchaseController.cs",
               "RelativeToolTip": "WebApp\\Controllers\\PurchaseController.cs",
               "ViewState": "AgIAAHQAAAAAAAAAAAA7wAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T20:33:23.652Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

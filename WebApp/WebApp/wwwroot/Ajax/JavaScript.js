@@ -2,6 +2,8 @@
 $(document).ready(function () {
     loadPartyCategoriesforItem();
     loadPartyNamesforItem();
+    var items = [];
+    getItem();
 });
     $(document).on('change', '#partyCategory', function () {
         var id = parseInt($(this).val());
@@ -119,4 +121,52 @@ function loadPartyNamesforItem() {
             alert("Failed to load categories: " + xhr.status + " - " + error);
         }
     });
+}
+
+function demotp(element) {
+    var selectitem = $(element).val();
+    var $row = $(element).closest('tr');
+    console.log("Items", items);
+
+    var item = items.find(p => p.itemId == selectitem);
+    if (item) {
+
+        $row.find('.hsncode').val(item.hsnCode);
+        $row.find('.qty').val(item.openingStock);
+        $row.find('.rate').val(item.salesPrice);
+        $row.find('.tax').val(item.gstTaxRate);
+
+
+    } else {
+
+        $row.find('.hsncode').val("");
+        $row.find('.qty').val("");
+        $row.find('.rate').val("");
+        $row.find('.tax').val("");
+    }
+}
+
+
+
+function getItem() {
+    $.ajax({
+        url: '/Consuming/GetItem',
+        type: 'GET',
+        dataType: 'json',
+        success: function (result, status, xhr) {
+
+            console.log("Item Data: ", result); // Check the structure of the result
+            items = result;
+            var options2 = '<option value="">Select Item</option>';
+            $.each(result, function (index, item) {
+
+                options2 += "<option value='" + item.itemId + "'>" + item.itemName + "</option>";
+            });
+            $("#GetItemName").html(options2);
+        },
+        error: function (xhr, status, error) {
+            console.error("Error fetching data: ", error);
+            alert("Failed to load subjects: " + xhr.status + " - " + error);
+        }
+    })
 }

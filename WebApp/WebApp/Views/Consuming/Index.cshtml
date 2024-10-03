@@ -1,0 +1,38 @@
+﻿
+@model List<SI>
+
+<a asp-controller="Consuming" asp-action="AddSI"><input type="button" class="btn btn-info" value="Create Invoice"/></a>
+
+@* <a asp-controller="Emp" asp-action="AddEmp"><input type="button" class="btn btn-primary" value="Add Emp" /></a>
+ *@<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Invoice Date</th>
+            <th scope="col">Invoice ID</th>
+            <th scope="col">Party Name</th>
+            <th scope="col">Party Address</th>
+            <th scope="col">Due Date</th>
+            <th scope="col">Amount</th>
+            <th scope="col">Payment Mode</th>
+            <th scope="col">Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.invoiceDate</th>
+                <td>@d.InvoiceID</td>
+                <td>@d.partyName</td>
+                <td>@d.shippingAddress</td>
+                <td>@d.dueDate</td>
+                <td>@d.Amount</td>
+                <td>@d.paymentMode</td>
+                <td>@d.Status</td>
+                
+            </tr>
+
+        }
+
+    </tbody>
+</table>

@@ -1,0 +1,75 @@
+﻿@model SI
+<div class="card">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Cosmetics</h2>
+                <p><strong>Mobile:</strong> 7030225945</p>
+            </div>
+            <div class="col-md-6 text-end">
+                <p><strong>Invoice No.:</strong> @Model.InvoiceID</p>
+                <p><strong>Invoice Date:</strong> @Model.invoiceDate.ToString("dd/MM/yyyy")</p>
+                <p><strong>Due Date:</strong> @Model.dueDate.ToString("dd/MM/yyyy")</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h4>BILL TO</h4>
+                <p>@Model.PartyName</p>
+                <p><strong>Mobile:</strong> 7021357103</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>ITEMS</th>
+                    <th>QTY</th>
+                    <th>RATE</th>
+                    <th>AMOUNT</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td>@item.ItemName</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Rate</td>
+                        <td>@item.Amount</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="row">
+            <div class="col-md-6">
+                <p><strong>Subtotal:</strong> @Model.Items.Sum(x => x.Amount)</p>
+                <p><strong>Taxable Amount:</strong> @Model.Items.Sum(x => x.Amount)</p>
+            </div>
+            <div class="col-md-6 text-end">
+                <p><strong>Total Amount:</strong> ₹@Model.Amount</p>
+                <p><strong>Received Amount:</strong> ₹0</p>
+                <p><strong>Total Amount (in words):</strong> @Model.AmountInWords</p>
+            </div>
+        </div>
+
+        <hr>
+
+        <h5>Terms and Conditions</h5>
+        <ul>
+            <li>Goods once sold will not be taken back or exchanged</li>
+            <li>All disputes are subject to [ENTER_YOUR_CITY_NAME] jurisdiction only</li>
+        </ul>
+
+        <p class="text-center">BILL OF SUPPLY ORIGINAL FOR RECIPIENT</p>
+    </div>
+</div>
+
+<!-- Optional: Add a Print Button -->
+<button class="btn btn-primary" onclick="GetPrint()">Print Invoice</button>

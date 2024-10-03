@@ -73,18 +73,16 @@
         background: rgba(68,138,255,0.5);
         box-shadow: 0 5px 10px rgba( 0, 0, 0, 0.1 );
         overflow: hidden;
-        /* background-image: url('../Images/breadcrumb-bg.jpg'); */
         background-repeat: no-repeat;
         background-size: cover;
-    
-        background-image: url('../images/breadcrumb-bg.jpg');
+        background-image: url('../assets/images/breadcrumb-bg.jpg');
+       
     }
-
     .wrapper {
         position: relative;
         width: 100%;
         border-radius: 12px;
-        padding: 20px 30px 120px;
+        padding: 20px 30px 12px;
         overflow: hidden;
         box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     }
@@ -104,7 +102,7 @@
 
         .wrapper img {
             width: 200px;
-            height: 100vh;
+            height: 100%;
             border-radius: 12px; /* Ensure image respects border radius */
             z-index: 0; /* Ensure image is below the pseudo-element */
         }
@@ -118,8 +116,8 @@
 <!-- Form content -->
 <div class="wrapper">
     <div class="card">
-        <div class="card-header" style=" padding-top: 20px;
-    padding-bottom: 10px;text-align:left;">
+        <div class="card-header" style=" padding-top: 10px;
+    padding-bottom: 5px;text-align:left;">
             <h5 >Welcome 🙏, Let's set up MasstechBillBook for <br> your business</h5>
         </div>
         <div class="card-block p-4">

@@ -39,6 +39,8 @@
     <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
     <!-- Style.css -->
     <link rel="stylesheet" type="text/css" href="~/assets/css/style.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.0/font/bootstrap-icons.min.css">
 </head>
 <div class="theme-loader">
     <div class="loader-track">
@@ -229,12 +231,17 @@
                     <div class="sidebar_toggle"><a href="#"><i class="icon-close icons"></i></a></div>
                     <div class="pcoded-inner-navbar main-menu">
                         <div class="">
-                            <div class="main-menu-header">
-                                <img class="img-80 img-radius" src="~/assets/images/avatar-4.jpg" alt="User-Profile-Image">
-                                <div class="user-details">
-                                    <span id="more-details">John Doe<i class="fa fa-caret-down"></i></span>
+                            <div class="main-menu-header" style="display: flex; flex-direction:column; align-items: center; justify-content:space-evenly;">
+                                <div id="latter" style="width: 50px; height: 50px; background-color: mediumpurple; border-radius: 50%; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px; font-weight: bold;">
+                                    <!-- First letter will be displayed here -->
+                                </div>
+
+                                <div class="user-details" style="margin-left: 10px;">
+                                    <span id="uname"><i class="fa fa-caret-down"></i></span>
                                 </div>
                             </div>
+
+
 
                             <div class="main-menu-content">
                                 <ul>
@@ -266,7 +273,7 @@
                             </li>
                             <li>
                                 <a class="waves-effect waves-dark" asp-controller="Party" asp-action="GetAllParties">
-                                    <span class="pcoded-micon"><i class="ti-layers"></i><b>FC</b></span>
+                                    <span class="pcoded-micon"><i class="bi bi-people-fill"></i><b>FC</b></span>
                                     <span class="pcoded-mtext" data-i18n="nav.form-components.main">Party</span>
                                     <span class="pcoded-mcaret"></span>
                                 </a>
@@ -274,11 +281,15 @@
 
 
                             <li class="pcoded-hasmenu">
-                                <a href="javascript:void(0)" class="waves-effect waves-dark">
-                                    <span class="pcoded-micon"><i class="ti-layout-grid2-alt"></i></span>
-                                    <span class="pcoded-mtext" data-i18n="nav.basic-components.main">Items</span>
+                                <a href="javascript:void(0)" class="btn btn-light waves-effect waves-dark">
+                                    <span class="pcoded-micon">
+                                        <i class="bi bi-box-seam-fill"></i> <!-- Bootstrap Icon equivalent to box -->
+                                    </span>
+                                    <span class="pcoded-mtext">Items</span>
                                     <span class="pcoded-mcaret"></span>
                                 </a>
+
+
                                 <ul class="pcoded-submenu">
                                     <li class=" ">
                                         <a asp-controller="Inventory" asp-action="Index" class="waves-effect waves-dark">
@@ -298,7 +309,7 @@
                             </li>
                             <li class="pcoded-hasmenu">
                                 <a href="javascript:void(0)" class="waves-effect waves-dark">
-                                    <span class="pcoded-micon"><i class="ti-layout-grid2-alt"></i></span>
+                                    <span class="pcoded-micon"><i class="bi bi-tag-fill"></i></span>
                                     <span class="pcoded-mtext" data-i18n="nav.basic-components.main">Sales</span>
                                     <span class="pcoded-mcaret"></span>
                                 </a>
@@ -315,7 +326,7 @@
 
                             <li class="pcoded-hasmenu">
                                 <a href="javascript:void(0)" class="waves-effect waves-dark">
-                                    <span class="pcoded-micon"><i class="ti-layout-grid2-alt"></i></span>
+                                    <span class="pcoded-micon"><i class="bi bi-handbag-fill"></i></span>
                                     <span class="pcoded-mtext" data-i18n="nav.basic-components.main">Purchase</span>
                                     <span class="pcoded-mcaret"></span>
                                 </a>
@@ -331,7 +342,7 @@
                             </li>
                             <li class="pcoded-hasmenu">
                                 <a href="javascript:void(0)" class="waves-effect waves-dark">
-                                    <span class="pcoded-micon"><i class="ti-layout-grid2-alt"></i></span>
+                                    <span class="pcoded-micon"><i class="bi bi-credit-card-2-front-fill"></i></span>
                                     <span class="pcoded-mtext" data-i18n="nav.basic-components.main">Report</span>
                                     <span class="pcoded-mcaret"></span>
                                 </a>
@@ -579,6 +590,7 @@
     <p>Sorry for the inconvenience!</p>
 </div>
 <![endif]-->
+
 <body>
 
     <!-- Required Jquery -->

@@ -1,5 +1,6 @@
 ﻿$(document).ready(function () {
     loadPartyCategories();
+    GetDetails();
     $(document).on('change', '#partyCategory', function () {
         var id = parseInt($(this).val());
         $.ajax({
@@ -56,3 +57,4 @@ function loadPartyCategories() {
         }
     });
 }
+

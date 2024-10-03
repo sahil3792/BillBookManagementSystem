@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
+using System.Linq;
 using WebApi.Data;
 
 using WebApi.Models;
@@ -39,6 +39,15 @@ namespace WebApi.Controllers
             return Ok(0);
         }
 
+
+        [Route("getdetails/{email}")]
+        [HttpGet]
+        public IActionResult getdetails(string email)
+        {
+            var data = db.Businesses.FromSqlRaw($"Exec getdetails '{email}'").AsEnumerable().SingleOrDefault();
+
+            return Ok(data);
+        }
 
 
     }

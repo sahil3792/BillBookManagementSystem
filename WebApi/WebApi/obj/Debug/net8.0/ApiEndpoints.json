@@ -320,6 +320,38 @@
   },
   {
     "ContainingType": "WebApi.Controllers.RegisterController",
+    "Method": "CheckExist",
+    "RelativePath": "api/Register/CheckExist/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.RegisterController",
+    "Method": "getdetails",
+    "RelativePath": "api/Register/getdetails/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.RegisterController",
     "Method": "RegisterView",
     "RelativePath": "api/Register/Register",
     "HttpMethod": "POST",
@@ -328,7 +360,7 @@
     "Parameters": [
       {
         "Name": "r",
-        "Type": "WebApi.Modules.Businesses",
+        "Type": "WebApi.Models.Businesses",
         "IsRequired": true
       }
     ],
@@ -426,6 +458,130 @@
     "ContainingType": "WebApi.Controllers.ReportController",
     "Method": "SalesDayBookDefault",
     "RelativePath": "api/Report/SalesDaybookProcdefault",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesController",
+    "Method": "GetBillByPartyId",
+    "RelativePath": "api/Sales/GetBillByPartyId/{partyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "partyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesController",
+    "Method": "GetBillWiseProfit",
+    "RelativePath": "api/Sales/GetBillWiseProfit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesController",
+    "Method": "GetPartyDropdown",
+    "RelativePath": "api/Sales/GetParty",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetAllParties",
+    "RelativePath": "api/SalesSummary/GetAllParties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetPartyDropdown",
+    "RelativePath": "api/SalesSummary/GetParty",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetSalesById",
+    "RelativePath": "api/SalesSummary/GetSalesById/{partyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "partyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetSalesByPartyId",
+    "RelativePath": "api/SalesSummary/GetSalesByPartyId/{partyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "partyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetSalesByStatus",
+    "RelativePath": "api/SalesSummary/GetSalesByStatus/{invoiceStatus}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "invoiceStatus",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetSalesSummary",
+    "RelativePath": "api/SalesSummary/GetSalesSummary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApi.Controllers.SalesSummaryController",
+    "Method": "GetStatusDropdown",
+    "RelativePath": "api/SalesSummary/GetStatus",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

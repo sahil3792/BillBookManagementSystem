@@ -1,4 +1,4 @@
-﻿/// <reference path="javascript1.js" />
+﻿///<reference path="javascript1.js" />
 $(document).ready(function () {
     loadPartyCategoriesforItem();
     loadPartyNamesforItem();

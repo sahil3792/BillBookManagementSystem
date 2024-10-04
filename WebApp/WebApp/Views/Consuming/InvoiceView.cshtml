@@ -1,4 +1,4 @@
-﻿@model SI
+﻿@* @model SI
 <div class="card">
     <div class="card-body">
         <div class="row">
@@ -8,8 +8,8 @@
             </div>
             <div class="col-md-6 text-end">
                 <p><strong>Invoice No.:</strong> @Model.InvoiceID</p>
-                <p><strong>Invoice Date:</strong> @Model.invoiceDate.ToString("dd/MM/yyyy")</p>
-                <p><strong>Due Date:</strong> @Model.dueDate.ToString("dd/MM/yyyy")</p>
+                <p><strong>Invoice Date:</strong> @Model.invoiceDate</p>
+                <p><strong>Due Date:</strong> @Model.dueDate</p>
             </div>
         </div>
 
@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h4>BILL TO</h4>
-                <p>@Model.PartyName</p>
+                <p>@Model.partyName</p>
                 <p><strong>Mobile:</strong> 7021357103</p>
             </div>
         </div>
@@ -73,3 +73,4 @@
 
 <!-- Optional: Add a Print Button -->
 <button class="btn btn-primary" onclick="GetPrint()">Print Invoice</button>
+ *@

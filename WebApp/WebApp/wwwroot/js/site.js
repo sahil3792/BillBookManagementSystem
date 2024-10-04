@@ -4,22 +4,22 @@
 
     getadd();
 });
-function Demo() {
-    var d = $('#d').serialize();
-    var obj = {
-        invoiceDate: d.invoiceDate,
-        invoiceID: d.invoiceID,
-        partyName: d.partyName,
-        shippingAddress: d.shippingAddress,
-        dueDate: d.dueDate,
-        Amount: d.Amount,
-        Status: d.status,
-        paymentMode: d.paymentMode,
-        invoicepdf: "null"
-    }
-    console.log(obj);
+//function Demo() {
+//    var d = $('#d').serialize();
+//    var obj = {
+//        invoiceDate: d.invoiceDate,
+//        invoiceID: d.invoiceID,
+//        partyName: d.partyName,
+//        shippingAddress: d.shippingAddress,
+//        dueDate: d.dueDate,
+//        Amount: d.Amount,
+//        Status: d.status,
+//        paymentMode: d.paymentMode,
+//        invoicepdf: "null"
+//    }
+//    console.log(obj);
 
-}
+//}
 $("#GetpartyName").change(function () {
     var selectedPartyId = parseInt($(this).val());
     console.log("Prties", parties);
@@ -43,6 +43,7 @@ function getadd() {
             console.log("This is Parties Data", parties);
             var options = '<option value="">Select Party</option>';
             $.each(result, function (index, item) {
+                console.log(item);
                 options += "<option value='" + item.salesInvoiceId + "'>" + item.partyName + "</option>";
             });
             $("#GetpartyName").html(options);

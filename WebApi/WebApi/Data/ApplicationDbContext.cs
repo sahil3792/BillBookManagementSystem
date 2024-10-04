@@ -36,6 +36,7 @@ namespace WebApi.Data
         public DbSet<Status> status { get; set; }
         public DbSet<SalesSummaryResult> salessummary { get; set; }
         public DbSet<BillWiseProfit> billwiseprofit { get; set; }
+        public DbSet<SIO> SIO { get; set; }
         public DbSet<SI> SI { get; set; }
         
 

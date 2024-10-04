@@ -58,7 +58,7 @@ namespace WebApi.Controllers
 
         [Route("AddBusiness")]
         [HttpPost]
-        public IActionResult AddBusiness(Business b)
+        public IActionResult AddBusiness(Businesses b)
         {
 
             var result = db.Database.ExecuteSqlRaw(
@@ -71,7 +71,7 @@ namespace WebApi.Controllers
         [HttpGet]
         public IActionResult getBusinesses()
         {
-           var data=db.businesses.FromSqlRaw("Exec getbusiness").ToList();
+           var data=db.Businesses.FromSqlRaw("Exec getbusiness").ToList();
             return Ok(data);
         }
         [Route("AddParties")]
@@ -88,16 +88,16 @@ namespace WebApi.Controllers
         [HttpGet]
         public IActionResult getParties() 
         {
-            var part= db.parties.FromSqlRaw("Exec getparty");
+            var part= db.Parties.FromSqlRaw("Exec getparty");
             return Ok(part);
         }
         [Route("AddItem")]
         [HttpPost]
-        public IActionResult AddItems(Inventories i)
+        public IActionResult AddItems(Inventory i)
         {
          
             var result = db.Database.ExecuteSqlRaw(
-                $"EXEC InsertInventory '{i.ItemType}', {i.CategoryID}, {i.Quantity}, '{i.ItemName}', {i.SalesPrice}, '{i.GSTTaxRate}', '{i.MeasuringUnit}', {i.OpeningStock}, {i.PurchasePrice}, '{i.ItemCode}', '{i.HSNCode}', '{i.Description}', '{i.Image}', {i.BusinessId}"
+                $"EXEC InsertInventory '{i.ItemType}', {i.CategoryID}, {i.OpeningStock}, '{i.ItemName}', {i.SalesPrice}, '{i.GSTTaxRate}', '{i.MeasuringUnit}', {i.OpeningStock}, {i.PurchasePrice}, '{i.ItemCode}', '{i.HSNCode}', '{i.Description}', '{i.Image}', {i.BusinessId}"
             );
 
             return Ok("Item added successfully");
@@ -125,7 +125,7 @@ namespace WebApi.Controllers
         [HttpGet]
         public IActionResult GetCategories()
         {
-            var ct = db.categories.FromSqlRaw("Exec getcategory");
+            var ct = db.ItemCategories.FromSqlRaw("Exec getcategory");
             return Ok(ct);
         }
         [Route("AddInvoicedItem")]
@@ -133,7 +133,7 @@ namespace WebApi.Controllers
         public IActionResult AddInvoItems(InvoicedItem it)
         {
             var result = db.Database.ExecuteSqlRaw(
-                $"EXEC InsertInvoicedItem {it.SalesInvoiceId}, {it.ItemId}"
+                $"EXEC InsertInvoicedItem {it.SalesId}, {it.InventoryId}"
             );
 
             return Ok("Invoiced item added successfully");
@@ -167,10 +167,10 @@ namespace WebApi.Controllers
 
         [Route("AddSalesInvoice")]
         [HttpPost]
-        public IActionResult AddSalesInvoice(SalesInvoice si)
+        public IActionResult AddSalesInvoice(Sales si)
         {
             var result = db.Database.ExecuteSqlRaw(
-                $"EXEC InsertSalesInvoice  {si.PartyId}, {si.InvoicedItemId}, {si.InvoiceId}, '{si.InvoiceDate}', '{si.DueDate}', {si.Amount}, {si.Quantity}"
+                $"EXEC InsertSalesInvoice  {si.BillTo}, {si.InvoicedItemsId}, {si.InvoiceId}, '{si.InvoiceDate}', '{si.InvoiceDate}', {si.SalesQuantity}, {si.SalesQuantity}"
             );
 
             return Ok("Sales invoice added successfully");
@@ -180,7 +180,7 @@ namespace WebApi.Controllers
         [HttpGet]
         public IActionResult GetSalesInvoices()
         {
-            var salesInvoices = db.salesInvoices.FromSqlRaw("EXEC getsalesinvoices").ToList();
+            var salesInvoices = db.sales.FromSqlRaw("EXEC getsalesinvoices").ToList();
             return Ok(salesInvoices);
         }
 

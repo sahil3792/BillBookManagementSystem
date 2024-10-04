@@ -113,14 +113,14 @@ namespace WebApp.Controllers
 
         public IActionResult GetItem()
         {
-            List<Inventories> inventories = new List<Inventories>();
+            List<Inventory> inventories = new List<Inventory>();
             string url = "https://localhost:7254/api/Adding/GetItem"; 
             HttpResponseMessage response = client.GetAsync(url).Result;
 
             if (response.IsSuccessStatusCode)
             {
                 var jsondata = response.Content.ReadAsStringAsync().Result;
-                var obj = JsonConvert.DeserializeObject<List<Inventories>>(jsondata);
+                var obj = JsonConvert.DeserializeObject<List<Inventory>>(jsondata);
 
                 if (obj != null)
                 {
